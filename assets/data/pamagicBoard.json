@@ -1,0 +1,73 @@
+{"storymap": {
+        "slides": [{
+            "type": "overview",
+            "date": "1790-2010",
+            "text": {
+                "headline": "US Manifest Destiny <small>Mean center of United States population</small>",
+                "text": "<p>The mean center of U.S. population is determined by the United States Census Bureau from the results of each census. Defined as the point at which an imaginary, flat, weightless, and rigid map of the United States would balance perfectly if weights of identical value were placed on it so that each weight represented the location of one person on the date of the census.</p> <span class='vco-note'>This is an overview or title slide to show all the points in your story routed on your map.</span>"
+            },
+            "media": {
+                    "url":              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/US_Mean_Center_of_Population_1790-2010.PNG/800px-US_Mean_Center_of_Population_1790-2010.PNG",
+                    "credit":               "wikipedia",
+                    "caption":          "Mean US_Mean_Center_of_Population_1790-2010"
+                }
+        }, {
+            "date": "1790",
+            "text": {
+                "headline": "1790",
+                "text": "<p>A look at the US during this first Census data collection.</p> <span class='vco-note'>Map (left) is an example of a URL to an image hosted on the web.</span>"
+            },
+            "location": {
+                "name": "Kent County, Maryland",
+                "lat": 39.27500,
+                "lon": -76.18667,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png",
+                    "credit":               "photobucket",
+                    "caption":          "1790 Map of the US Census"
+                }
+        },{
+            "date": "1800",
+            "text": {
+                "headline": "1800: Thomas Jefferson",
+                "text": "<p>In 1800, Thomas Jefferson was elected as the President of the United States, not too far from Howard County Maryland the new center of US population. He of course did not have a Twitter account, but this is fun.</p> <span class='vco-note'>You can embed a tweet into your StoryMapJS using the URL to the tweet.</span>"
+            },
+            "location": {
+                "name": "Howard County, Maryland",
+                "lat": 39.26833,
+                "lon": -76.94167,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url":              "https://twitter.com/ThomasJefferson/status/265523460720168960",
+                    "credit":               "Twitter",
+                    "caption":          "Thomas Jefferson Twitter account"
+                }
+        }, {
+            "date": "1810",
+            "text": {
+                "headline": "1810: Loudoun County, Virginia",
+                "text": "<p>The population moved 40 miles northwest of Washington, DC. The US also acquired new territory west of the original 13 states in 1803 through the Louisiana Purchase from France.</p> <span class='vco-note'>The headline and location name to the previous and next slide (left and right), show up under the navigation arrows.</span>"
+            },
+            "location": {
+                "name": "Loudoun County, Virginia",
+                "lat": 39.19167,
+                "lon": -77.62000,
+                "zoom": 10,
+                "line": true
+            },
+            "media": {
+                    "url":              "http://www.worldmapsonline.com/images/Cram/History/unitedstates1810.jpg",
+                    "credit":               "worldmapsonline",
+                    "caption":          "1810 Map of the US"
+                }
+        }]
+}
+}
+  
+
+    
