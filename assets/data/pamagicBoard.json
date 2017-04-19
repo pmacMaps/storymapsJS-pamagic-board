@@ -1,73 +1,136 @@
 {"storymap": {
         "slides": [{
             "type": "overview",
-            "date": "1790-2010",
             "text": {
-                "headline": "US Manifest Destiny <small>Mean center of United States population</small>",
-                "text": "<p>The mean center of U.S. population is determined by the United States Census Bureau from the results of each census. Defined as the point at which an imaginary, flat, weightless, and rigid map of the United States would balance perfectly if weights of identical value were placed on it so that each weight represented the location of one person on the date of the census.</p> <span class='vco-note'>This is an overview or title slide to show all the points in your story routed on your map.</span>"
-            },
-            "media": {
-                    "url":              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/US_Mean_Center_of_Population_1790-2010.PNG/800px-US_Mean_Center_of_Population_1790-2010.PNG",
-                    "credit":               "wikipedia",
-                    "caption":          "Mean US_Mean_Center_of_Population_1790-2010"
-                }
-        }, {
-            "date": "1790",
-            "text": {
-                "headline": "1790",
-                "text": "<p>A look at the US during this first Census data collection.</p> <span class='vco-note'>Map (left) is an example of a URL to an image hosted on the web.</span>"
+                "headline": "Meet the PaMAGIC Board",
+                "text": "<p>The PAMAGIC Board of Directors is comprised of nine members. Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The term overlap and three positions are elected each year. Elections are held each May.</p>"
             },
             "location": {
-                "name": "Kent County, Maryland",
-                "lat": 39.27500,
-                "lon": -76.18667,
-                "zoom": 10,
-                "line": true
+                "lat": 40.793704,
+                "lon": -77.869241,
+                "zoom": 5                
             },
             "media": {
-                    "url":              "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_1789-08-1790.png",
-                    "credit":               "photobucket",
-                    "caption":          "1790 Map of the US Census"
-                }
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/PAMAGIC-Board-2016.jpg",
+                    "caption": "2016-2017 Board"
+            }
+        }, {
+            "text": {
+                "headline": "Patrick McKinney (President)",
+                "text": "<p>Patrick is a GIS Specialist for Cumberland County.  In addition to maintaining enterprise datasets, he provides technical assistance to county staff and municipal partners, develops map applications for the web, and coordinates addressing for the County.  He also enjoys playing guitar, drinking high quality teas, and spending time with his family.</p>"
+            },
+            "location": {
+                "lat": 40.201557,
+                "lon": -77.189026,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/patrick_mckinney.JPG"               
+            }
         },{
-            "date": "1800",
             "text": {
-                "headline": "1800: Thomas Jefferson",
-                "text": "<p>In 1800, Thomas Jefferson was elected as the President of the United States, not too far from Howard County Maryland the new center of US population. He of course did not have a Twitter account, but this is fun.</p> <span class='vco-note'>You can embed a tweet into your StoryMapJS using the URL to the tweet.</span>"
+                "headline": "Wade Gobrecth (Vice President)",
+                "text": "<p>I am currently the chief of Information Systems division within the York County Planning Commission (YCPC).  I have been with the YCPC for 14 years and have over 17 years of experience in Geospatial Technology.  My main duties include network/IT oversite, coordinate GIS activities for the County of York and utilize GIS for day-to-day work tasks.</p>"
             },
             "location": {
-                "name": "Howard County, Maryland",
-                "lat": 39.26833,
-                "lon": -76.94167,
-                "zoom": 10,
-                "line": true
+                "lat": 39.962335,
+                "lon": -76.726500,
+                "zoom": 10                
             },
             "media": {
-                    "url":              "https://twitter.com/ThomasJefferson/status/265523460720168960",
-                    "credit":               "Twitter",
-                    "caption":          "Thomas Jefferson Twitter account"
-                }
-        }, {
-            "date": "1810",
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/wade_gobrecht.JPG"                    
+            }
+        },{
             "text": {
-                "headline": "1810: Loudoun County, Virginia",
-                "text": "<p>The population moved 40 miles northwest of Washington, DC. The US also acquired new territory west of the original 13 states in 1803 through the Louisiana Purchase from France.</p> <span class='vco-note'>The headline and location name to the previous and next slide (left and right), show up under the navigation arrows.</span>"
+                "headline": "Mike Bialousz (Secretary)",
+                "text": "<p>Mike works at Esri doing awesome things.  We would need new text about the great work he's done with DCNR.</p>"
             },
             "location": {
-                "name": "Loudoun County, Virginia",
-                "lat": 39.19167,
-                "lon": -77.62000,
-                "zoom": 10,
-                "line": true
+                "lat": 40.070170,
+                "lon": -75.467046,
+                "zoom": 10                
             },
             "media": {
-                    "url":              "http://www.worldmapsonline.com/images/Cram/History/unitedstates1810.jpg",
-                    "credit":               "worldmapsonline",
-                    "caption":          "1810 Map of the US"
-                }
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/mike_bialousz.jpg"               
+            }
+        },{
+            "text": {
+                "headline": "Thomas Denton (Treasurer)",
+                "text": "<p>homas Denton is a Research and Planning Systems Analyst at the Archdiocese of Philadelphia which serves 5 counties in the southeastern portion of Pennsylvania. He manages their GIS data and their ArcGIS online map. He also manages annual collection and reporting of their demographic surveys. His past experience includes project management and planning in the environmental and construction industry.</p>"
+            },
+            "location": {
+                "lat": 39.95778,
+                "lon": -75.16722,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_denton.jpg"               
+            }
+        },{
+            "text": {
+                "headline": "Tom Edinger",
+                "text": "<p>Mr. Edinger is employed at Tri-County Regional Planning Commission in Harrisburg, PA and is responsible for coordinating GIS efforts including applying GIS to transportation-related projects.</p>"
+            },
+            "location": {
+                "lat": 40.259158,
+                "lon": -76.882593,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_edinger.png"               
+            }
+        },{
+            "text": {
+                "headline": "Christine Iksic",
+                "text": "<p>Text about Christine and the great things she does.</p>"
+            },
+            "location": {
+                "lat": 40.592748,
+                "lon": -80.233022,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+            }
+        },{
+            "text": {
+                "headline": "Eric Jespersen",
+                "text": "<p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p>"
+            },
+            "location": {
+                "lat": 40.252341,
+                "lon": -76.919622,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/eric_jespersen.jpg"               
+            }
+        },{
+            "text": {
+                "headline": "Noemi Mendez Eliasen",
+                "text": "<p>Text about Noemi and the great things she does with U.S. Census.</p>"
+            },
+            "location": {
+                "lat": 39.950125,
+                "lon": -75.150969,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+            }
+        },{
+            "text": {
+                "headline": "Glenn Mohler",
+                "text": "<p>Glenn manages the GIS Division of Lancaster County IT, which provides GIS products and services to customers internal and external to County government.  Division staff perform analytical services, create and edit geospatial data, produce maps, distribute data and generally support the local GIS community.  Previously Glenn worked as a GIS Specialist for the Lancaster County Planning Department, with an emphasis on using geospatial tools to evaluate and manage urban growth patterns.</p>"
+            },
+            "location": {
+                "lat": 40.04044,
+                "lon": -76.30666,
+                "zoom": 10                
+            },
+            "media": {
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/glenn_mohler.JPG"               
+            }
         }]
-}
-}
-  
-
-    
+    }
+} 
