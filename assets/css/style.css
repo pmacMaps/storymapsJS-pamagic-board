@@ -18,9 +18,58 @@ body {
     width: 100%;
 }
 
-
+/* story map container */
 #storyMap {
     width: 100%;
     height: 100%;
     margin: 0 auto;    
+}
+
+/* story map menu bar */
+.vco-menubar-button {
+    background-color: #0b3c5d;
+    color: #fff;
+    -webkit-transition: background-color 0.3s ease-in-out;
+    -moz-transition: background-color 0.3s ease-in-out;
+    -o-transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.vco-menubar-button:hover,
+.vco-menubar-button:focus {
+    background-color: #d9b310;
+}
+
+/* map icons */
+.vco-map .vco-mapmarker {
+    color: #fff;
+}
+
+.vco-map .vco-mapmarker-icon:after {
+    content: url(../images/pamagic-marker.png);
+}
+
+/* tour points text */
+.vco-slide-content {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.vco-storymap h2.vco-headline-title {
+    font-size: 1.5em;
+}
+
+.vco-headline,
+.vco-storymap h2 {
+    font-size: 1.4em;
+}
+
+.vco-text-content {
+    font-size: 1.05em;    
+}
+
+.vco-text p {
+    color: #333;
 }
