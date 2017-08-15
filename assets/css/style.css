@@ -49,6 +49,12 @@ body {
     content: url(../images/pamagic-marker.png);
 }
 
+/* before and after buttons */
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before,
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
+    background-color: #0b3c5d;
+}
+
 /* tour points text */
 .vco-slide-content {
     padding-top: 15px;
@@ -72,4 +78,15 @@ body {
 
 .vco-text p {
     color: #333;
+}
+
+/* leaflet elements */
+.vco-map .leaflet-container .leaflet-control-attribution {
+    background:  rgba(255,255,255,0.80);
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.vco-map .leaflet-container .leaflet-control-attribution a {
+    color: #00f;
 }
