@@ -3,7 +3,7 @@
             "type": "overview",
             "text": {
                 "headline": "Meet the PaMAGIC Board",
-                "text": "<p>The PAMAGIC Board of Directors is comprised of nine members. Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The term overlap and three positions are elected each year. Elections are held each May.</p>"
+                "text": "<p>The PAMAGIC Board of Directors is comprised of nine members. Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The term overlap and three positions are elected each year. Elections are held each May.</p><p>Individuals serving on important non-board positions are also highlighted.</p>"
             },
             "media": {
                     "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/pamagic-board-2017-pagisconf.jpg",
@@ -25,20 +25,20 @@
         },{
             "text": {
                 "headline": "Mark Maguire (Vice President)",
-                "text": "<p>Get updated text about Mark.</p>"
+                "text": "<p>Mark Maguire is currently GIS Manager at Civil & Environmental Consultants in Pittsburgh, PA.  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
             },
             "location": {
-                "lat": 40.254587, 
-                "lon": -76.887938, 
+                "lat": 40.424524, 
+                "lon": -80.100640, 
                 "zoom": 10                
             },
             "media": {
-                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"                    
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mark_maguire.jpg"                    
             }
         },{
             "text": {
                 "headline": "Wade Gobrecth (Secretary)",
-                "text": "<p><strong>Get updated text.</strong></p><p>I am currently the chief of Information Systems division within the York County Planning Commission (YCPC).  I have been with the YCPC for 14 years and have over 17 years of experience in Geospatial Technology.  My main duties include network/IT oversite, coordinate GIS activities for the County of York and utilize GIS for day-to-day work tasks.</p>"
+                "text": "<p>I am currently the Assistant Director of the York County Planning Commission (YCPC).  I have been with the YCPC for 15 years and have over 17 years of experience with Geospatial Technology. I have been an active PaMAGIC Board member for the last 3 years and am also involved with the County GIS Professionals Association.  While I’m not at work, I enjoy helping with my daughters’ sports teams, as well as, hunting, fishing, hiking, biking, camping and many other outdoor activities.</p>"
             },
             "location": {
                 "lat": 39.962335,
@@ -46,11 +46,11 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/wade_gobrecht.JPG"                    
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/wade_gobrecht.JPG"                    
             }
         },{
             "text": {
-                "headline": "Eric Jespersen",
+                "headline": "Eric Jespersen (Board Member)",
                 "text": "<p><strong>Get updated text.</strong></p><p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p>"
             },
             "location": {
@@ -59,11 +59,11 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/eric_jespersen.jpg"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/eric_jespersen.jpg"               
             }
         },{
             "text": {
-                "headline": "Christine Iksic",
+                "headline": "Christine Iksic (Board Member)",
                 "text": "<p>Get updated text about Christine.</p>"
             },
             "location": {
@@ -72,11 +72,11 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
             }
         },{
             "text": {
-                "headline": "Glenn Mohler",
+                "headline": "Glenn Mohler (Board Member)",
                 "text": "<p>Glenn manages the GIS Division of Lancaster County IT, which provides GIS products and services to customers internal and external to County government.  Division staff perform analytical services, create and edit geospatial data, produce maps, distribute data and generally support the local GIS community.  Previously Glenn worked as a GIS Specialist for the Lancaster County Planning Department, with an emphasis on using geospatial tools to evaluate and manage urban growth patterns.</p>"
             },
             "location": {
@@ -85,11 +85,11 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/glenn_mohler.JPG"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/glenn_mohler.JPG"               
             }
         },{
             "text": {
-                "headline": "Matt Mercurio",
+                "headline": "Matt Mercurio (Board Member)",
                 "text": "<p>Get updated text about Matt.</p>"
             },
             "location": {
@@ -98,12 +98,12 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
             }
         },{
             "text": {
-                "headline": "Mike Bialousz",
-                "text": "<p>Mike Bialousz, who has been a PaMAGIC board member since 2009, is a National Account Manager for Esri focused on supporting environment and natural resource state agencies across the U.S.  This role has Mike evaluating critical business needs of these agency types focusing on the approach to GIS implementation to meet these needs, as well as how the technology can truly be leveraged to meet the many challenges these agencies face every day.  Mike has over 23 years of GIS experience, including the last 13 years with the Pennsylvania Department of Conservation of Natural Resources and the Fish and Boat Commission as a department-wide GIS Manager.  This experience had him leading the development of department-wide GIS strategies, implementing enterprise GIS systems, developing public and internal web GIS engagement tools, conducting GIS training, and administering ArcGIS Online organizations for the deployment of web maps, data collection applications, and integrated tools with other business systems.</p>"
+                "headline": "Mike Bialousz (Board Member)",
+                "text": "<p>Mike Bialousz, who has been a PaMAGIC board member since 2009, is a National Account Manager for Esri focused on supporting environment and natural resource state agencies across the U.S.  This role has Mike evaluating critical business needs of these agency types focusing on the approach to GIS implementation to meet these needs, as well as how the technology can truly be leveraged to meet the many challenges these agencies face every day.</p><p>Mike has over 23 years of GIS experience, including the last 13 years with the Pennsylvania Department of Conservation of Natural Resources and the Fish and Boat Commission as a department-wide GIS Manager.  This experience had him leading the development of department-wide GIS strategies, implementing enterprise GIS systems, developing public and internal web GIS engagement tools, conducting GIS training, and administering ArcGIS Online organizations for the deployment of web maps, data collection applications, and integrated tools with other business systems.</p>"
             },
             "location": {
                 "lat": 40.070170,
@@ -111,11 +111,11 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mike_bialousz.jpg"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mike_bialousz.jpg"               
             }
         },{
             "text": {
-                "headline": "Robert Schwarz",
+                "headline": "Robert Schwarz (Board Member)",
                 "text": "<p>Get updated text about Matt.</p>"
             },
             "location": {
@@ -124,8 +124,47 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+            }
+        },{
+            "text": {
+                "headline": "Dave Gilbert (Geoboard Rep)",
+                "text": "<p>David Gilbert, GISP is a Senior Project Manager for GeoDecisions.  Dave is one of the original employees of GeoDecisions and has been with the company for 30 years serving as a consultant for local and state government, environmental and utility projects.   Dave has served as past President of PAMAGIC and Secretary as well as Secretary for the Pennsylvania Floodplain Managers and as a Steering Committee member on the Pennsylvania DEP Northcentral Citizens Round Table.</p><p>Dave currently serves as PAMAGIC's representative to the State GeoSpatial Coordinating Board. Dave lives with his wife and daughter in Centre County along with their Weimaraner, chickens and goldfish.</p>"
+            },
+            "location": {
+                "lat": 40.785028,
+                "lon": -77.821935,
+                "zoom": 10                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/dave_gilbert.JPG"               
+            }
+        },{
+            "text": {
+                "headline": "Tom Denton (Member Chair)",
+                "text": "<p>Thomas Denton is a Research and Planning Systems Analyst at the Archdiocese of Philadelphia which serves 5 counties in the southeastern portion of Pennsylvania. He manages their GIS data and their ArcGIS online map. He also manages annual collection and reporting of their demographic surveys. His past experience includes project management and planning in the environmental and construction industry.</p><p>Tom currently serves as PAMAGIC's Membership Chair.</p>"
+            },
+            "location": {
+                "lat": 39.95778,
+                "lon": -75.16722,
+                "zoom": 10                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/tom_denton.jpg"               
+            }
+        },{
+            "text": {
+                "headline": "Patrick McKinney (Webmaster)",
+                "text": "<p>Patrick is a GIS Specialist for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, developing web map applications for the web, writing Python scripts to automate workflows, and coordinates addressing for the County.  He also enjoys playing bass guitar, drinking high quality teas and coffees, and spending time with his family.</p><p>Patrick is currently serving as the webmaster for PaMAGIC and always looking for people to join him in this endeavour.</p>"
+            },
+            "location": {
+                "lat": 40.201557,
+                "lon": -77.189026,
+                "zoom": 10                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/patrick-mckinney.jpg"               
             }
         }]
     }
-}
+} 
