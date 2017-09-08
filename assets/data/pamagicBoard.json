@@ -2,8 +2,8 @@
         "slides": [{
             "type": "overview",
             "text": {
-                "headline": "Meet the PaMAGIC Board",
-                "text": "<p>The PAMAGIC Board of Directors is comprised of nine members. Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The term overlap and three positions are elected each year. Elections are held each May.</p><p>Individuals serving on important non-board positions are also highlighted.</p>"
+                "headline": "Meet the PaMAGIC Leadership Team",
+                "text": "<p>The PaMAGIC Leadership Team is comprised of the nine-member Board of Directors, Pennsylvania Geoboard representative, Membership Chair, and Webmaster.</p><p>Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The terms overlap and three positions are elected each year. Elections are held each May.</p>"
             },
             "media": {
                     "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/pamagic-board-2017-pagisconf.jpg",
@@ -12,15 +12,15 @@
         },{
             "text": {
                 "headline": "Tom Edinger (President)",
-                "text": "<p>Get updated text about Tom.</p>"
+                "text": "<p>Tom works for the Delaware Valley Regional Planning Commission, where he performs planning and research in regards to transportation congestion management, including development and use of GIS tools for data analysis and reporting.</p>"
             },
             "location": {
-                "lat": 40.254587, 
-                "lon": -76.887938, 
+                "lat": 39.954559, 
+                "lon": -75.149979, 
                 "zoom": 10                
             },
             "media": {
-                    "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                    "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/tom_edinger.png"         
             }
         },{
             "text": {
@@ -33,12 +33,12 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mark_maguire.jpg"                    
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mark_maguire.jpg"           
             }
         },{
             "text": {
-                "headline": "Wade Gobrecth (Secretary)",
-                "text": "<p>I am currently the Assistant Director of the York County Planning Commission (YCPC).  I have been with the YCPC for 15 years and have over 17 years of experience with Geospatial Technology. I have been an active PaMAGIC Board member for the last 3 years and am also involved with the County GIS Professionals Association.  While I’m not at work, I enjoy helping with my daughters’ sports teams, as well as, hunting, fishing, hiking, biking, camping and many other outdoor activities.</p>"
+                "headline": "Wade Gobrecht (Secretary)",
+                "text": "<p>Wade is currently the Assistant Director of the York County Planning Commission (YCPC).  He has been with the YCPC for 15 years and have over 17 years of experience with Geospatial Technology. Wade has been an active PaMAGIC Board member for the last 3 years and am also involved with the County GIS Professionals Association.</p><p>While he's not at work, he enjoys helping with his daughters’ sports teams, as well as, hunting, fishing, hiking, biking, camping and many other outdoor activities.</p>"
             },
             "location": {
                 "lat": 39.962335,
@@ -46,20 +46,20 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/wade_gobrecht.JPG"                    
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/wade_gobrecht.JPG"        
             }
         },{
             "text": {
                 "headline": "Eric Jespersen (Board Member)",
-                "text": "<p><strong>Get updated text.</strong></p><p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p>"
+                "text": "<p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p><p>Eric encourages young professionals to engage in public service, having found the information and connections from that ever useful. He works part-time for JMT Technology Group as Business Development Specialist.</p>"
             },
             "location": {
-                "lat": 40.252341,
-                "lon": -76.919622,
+                "lat": 41.018419,
+                "lon": -76.006063,
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/eric_jespersen.jpg"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/eric_jespersen.jpg"         
             }
         },{
             "text": {
@@ -72,7 +72,7 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"         
             }
         },{
             "text": {
@@ -85,20 +85,20 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/glenn_mohler.JPG"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/glenn_mohler.JPG"         
             }
         },{
             "text": {
                 "headline": "Matt Mercurio (Board Member)",
-                "text": "<p>Get updated text about Matt.</p>"
+                "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
             },
             "location": {
-                "lat": 40.254587, 
-                "lon": -76.887938, 
+                "lat": 40.4611167, 
+                "lon": -79.9255654, 
                 "zoom": 10                
             },
             "media": {
-                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/matt-mercurio.png"          
             }
         },{
             "text": {
@@ -111,7 +111,7 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mike_bialousz.jpg"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/mike_bialousz.jpg"           
             }
         },{
             "text": {
@@ -124,7 +124,7 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"               
+                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"         
             }
         },{
             "text": {
@@ -137,7 +137,7 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/dave_gilbert.JPG"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/dave_gilbert.JPG"          
             }
         },{
             "text": {
@@ -150,7 +150,7 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/tom_denton.jpg"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/tom_denton.jpg"            
             }
         },{
             "text": {
@@ -163,7 +163,7 @@
                 "zoom": 10                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/patrick-mckinney.jpg"               
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/patrick-mckinney.jpg"       
             }
         }]
     }
