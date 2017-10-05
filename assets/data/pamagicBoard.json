@@ -63,19 +63,6 @@
             }
         },{
             "text": {
-                "headline": "Christine Iksic (Board Member)",
-                "text": "<p>Get updated text about Christine.</p>"
-            },
-            "location": {
-                "lat": 40.254587, 
-                "lon": -76.887938, 
-                "zoom": 10                
-            },
-            "media": {
-                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"         
-            }
-        },{
-            "text": {
                 "headline": "Glenn Mohler (Board Member)",
                 "text": "<p>Glenn manages the GIS Division of Lancaster County IT, which provides GIS products and services to customers internal and external to County government.  Division staff perform analytical services, create and edit geospatial data, produce maps, distribute data and generally support the local GIS community.  Previously Glenn worked as a GIS Specialist for the Lancaster County Planning Department, with an emphasis on using geospatial tools to evaluate and manage urban growth patterns.</p>"
             },
@@ -116,15 +103,15 @@
         },{
             "text": {
                 "headline": "Robert Schwarz (Board Member)",
-                "text": "<p>Get updated text about Matt.</p>"
+                "text": "<p>Rob Schwarz graduated from Mansfield University with a B.S. in Geography and Minor in Regional Planning in 2003. During that time he started his career with the Tioga County GIS department, to which he became Director. During that time he served on various committees and as VP for the County Pros.</p><p>Rob took an opportunity in the private sector in 2012 as GIS Manager for Wildlife Specialists. There he streamlined the companies GIS data flow from field to client, trained field staff on field data collection and ESRI software. Rob received his GISP in 2012.</p><p>In 2013 Rob partnered with an owner of Wildlife Specialists to form Remote Intelligence, a UAV service provider, where he continues today as co-founder with three others. Rob values his experiences from both public and private sector and looks forward to continuing the great work that PAMAGIC has accomplished in the GIS community.</p>"
             },
             "location": {
-                "lat": 40.254587,
-                "lon": -76.887938,
+                "lat": 41.958864,
+                "lon": -76.988433,
                 "zoom": 10                
             },
             "media": {
-                "url": "//pamagic.org/sites/all/themes/responsive/images/pamagic_blue_edited.png"         
+                "url": "//maps.pamagic.org/meet-the-board-demo/assets/images/rob-schwarz.jpg"         
             }
         },{
             "text": {

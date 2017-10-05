@@ -29,14 +29,17 @@ body {
 .vco-menubar-button {
     background-color: #0b3c5d;
     color: #fff;
-    -webkit-transition: background-color 0.3s ease-in-out;
-    -moz-transition: background-color 0.3s ease-in-out;
-    -o-transition: background-color 0.3s ease-in-out;
-    transition: background-color 0.3s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out;
+    -moz-transition: background-color 0.2s ease-in-out;
+    -o-transition: background-color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
 }
 
 .vco-menubar-button:hover,
-.vco-menubar-button:focus {
+.vco-menubar-button:focus,
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:hover:before, 
+.vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:hover:before,
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:focus:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:focus:before {
     background-color: #d9b310;
 }
 
@@ -50,9 +53,13 @@ body {
 }
 
 /* before and after buttons */
-.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before,
-.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:before, 
+.vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:before {
     background-color: #0b3c5d;
+    -webkit-transition: background-color 0.2s ease-in-out;
+    -moz-transition: background-color 0.2s ease-in-out;
+    -o-transition: background-color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out;
 }
 
 /* tour points text */
