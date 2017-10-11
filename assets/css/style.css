@@ -8,7 +8,7 @@ html {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
   box-sizing: inherit;
-  }
+}
 
 html, 
 body {
@@ -26,9 +26,13 @@ body {
 }
 
 /* story map menu bar */
-.vco-menubar-button {
+.vco-menubar-button,
+.vco-mobile .vco-menubar-button:hover {
     background-color: #0b3c5d;
     color: #fff;
+}
+
+.vco-menubar-button {    
     -webkit-transition: background-color 0.2s ease-in-out;
     -moz-transition: background-color 0.2s ease-in-out;
     -o-transition: background-color 0.2s ease-in-out;
@@ -39,7 +43,8 @@ body {
 .vco-menubar-button:focus,
 .vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:hover:before, 
 .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:hover:before,
-.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:focus:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:focus:before {
+.vco-layout-landscape .vco-storyslider .vco-slidenav-next .vco-slidenav-icon:focus:before, .vco-layout-landscape .vco-storyslider .vco-slidenav-previous .vco-slidenav-icon:focus:before,
+.vco-mobile .vco-menubar-button:active {
     background-color: #d9b310;
 }
 
@@ -63,6 +68,10 @@ body {
 }
 
 /* tour points text */
+div.vco-storymap.vco-mobile.vco-layout-landscape > div.vco-storyslider.vco-storyslider {
+    z-index: 1500;    
+}
+
 .vco-slide-content {
     padding-top: 15px;
     padding-bottom: 15px;
@@ -96,4 +105,12 @@ body {
 
 .vco-map .leaflet-container .leaflet-control-attribution a {
     color: #00f;
+}
+
+/* Media Queries */
+@media screen and (orientation: landscape) {
+    .vco-slide-content {
+        padding-left: 10px !important;
+        margin-right: -20px !important;
+    }
 }
