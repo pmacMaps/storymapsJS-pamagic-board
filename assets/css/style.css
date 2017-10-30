@@ -48,6 +48,11 @@ body {
     background-color: #d9b310;
 }
 
+.vco-storymap p a {
+    color: #00e;
+    text-decoration: underline;
+}
+
 /* map icons */
 .vco-map .vco-mapmarker {
     color: #fff;
