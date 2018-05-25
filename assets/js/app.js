@@ -1,7 +1,6 @@
 "use strict";
 
 // storymap_data can be an URL or a Javascript object
-//var storymap_data = '//media.knightlab.com/StoryMapJS/demo/demo.json';
 var storymap_data = './assets/data/pamagicBoard.json';
 
 // certain settings must be passed within a separate options object
