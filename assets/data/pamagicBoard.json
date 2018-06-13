@@ -20,7 +20,7 @@
                 "zoom": 10                
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_edinger.png"         
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_edinger.png"    
             }
         },{
             "text": {
@@ -38,7 +38,7 @@
         },{
             "text": {
                 "headline": "Eric Jespersen (Treasurer)",
-                "text": "<p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p><p>Eric encourages young professionals to engage in public service, having found the information and connections from that ever useful. He works part-time for JMT Technology Group as Business Development Specialist.</p>"
+                "text": "<p>Nothing Changes!</p><p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p><p>Eric encourages young professionals to engage in public service, having found the information and connections from that ever useful. He works part-time for JMT Technology Group as Business Development Specialist.</p>"
             },
             "location": {
                 "lat": 41.018419,
@@ -51,7 +51,7 @@
         },{
             "text": {
                 "headline": "Patrick McKinney (Board Member & Webmaster)",
-                "text": "<p>Patrick is a GIS Specialist for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, developing web map applications for the web, writing Python scripts to automate workflows, and coordinates addressing for the County.  He also enjoys playing bass guitar, drinking high quality teas and coffees, and spending time with his family.</p><p>Patrick is currently serving as the webmaster for PaMAGIC and always looking for people to join him in this endeavour.</p>"
+                "text": "<p>Patrick is a GIS Specialist for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He also enjoys playing bass guitar, drinking quality coffees and teas, and spending time with his family.</p>"
             },
             "location": {
                 "lat": 40.201557,
@@ -142,7 +142,7 @@
         },{
             "text": {
                 "headline": "Tom Denton (Member Chair)",
-                "text": "<p>Thomas Denton is a Research and Planning Systems Analyst at the Archdiocese of Philadelphia which serves 5 counties in the southeastern portion of Pennsylvania. He manages their GIS data and their ArcGIS online map. He also manages annual collection and reporting of their demographic surveys. His past experience includes project management and planning in the environmental and construction industry.</p><p>Tom currently serves as PAMAGIC's Membership Chair.</p>"
+                "text": "<p>Nothing Changes!</p><p>Thomas Denton is a Research and Planning Systems Analyst at the Archdiocese of Philadelphia which serves 5 counties in the southeastern portion of Pennsylvania. He manages their GIS data and their ArcGIS online map. He also manages annual collection and reporting of their demographic surveys. His past experience includes project management and planning in the environmental and construction industry.</p><p>Tom currently serves as PAMAGIC's Membership Chair.</p>"
             },
             "location": {
                 "lat": 39.95778,
