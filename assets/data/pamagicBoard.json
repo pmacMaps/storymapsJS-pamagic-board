@@ -6,8 +6,8 @@
                 "text": "<p>The PaMAGIC Leadership Team is comprised of the nine-member Board of Directors, Pennsylvania Geoboard representative, Membership Chair, and Webmaster.</p><p>Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The terms overlap and three positions are elected each year. Elections are held each May.</p><p>Visit the <a href='https://pamagic.org/' target='_blank'>PaMAGIC website</a> to learn more about our organization.</p>"
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board/assets/images/pamagic-board-2017-pagisconf.jpg",
-                    "caption": "2017-2018 Board"
+                    "url": "//maps.pamagic.org/meet-the-board/assets/images/pamagic-blue-whitespace.png",
+                    "caption": "Pennsylvania Mapping and Geographic Information Consortium"
             }
         },{
             "text": {
@@ -38,7 +38,7 @@
         },{
             "text": {
                 "headline": "Vicki Wilt (Secretary)",
-                "text": "<p>Vicki was drawn to GIS in 2013 when she attended GIS day at HACC with her daughter Holli, a high school senior. They both enjoyed the high school workshops, and the exhibit hall displaying the GIS applications and uses. Holli went to the University of Pittsburgh to study Environmental Geology, and Vicki went back to school to study GIS at HACC. Vicki is also an alumni of the University of Pittsburgh, and acquired a degree in Economics and Anthropology.</p><p>Vicki has been employed in the Business and IT field for approximately 20 years, so it made it easier to study GIS and its applications. Vicki has also recently acquired a certificate of completion for Project Management studies at Penn State, York and a Pennsylvania Property/Casualty Producer License. She is looking forward to her time on the PaMagic Board. She and her husband Randy live in York with daughters Holli and Carli.</p>"
+                "text": "<p>Vicki was drawn to GIS in 2013 when she attended GIS day at HACC with her daughter Holli, a high school senior. They both enjoyed the high school workshops, and the exhibit hall displaying the GIS applications and uses. Holli went to the University of Pittsburgh to study Environmental Geology, and Vicki went back to school to study GIS at HACC.  Vicki has volunteered with PaMagic while acquiring her Diploma in GIS, and is currently a Geo-Mentor with AAG-ESRI.  Vicki is also an alumni of the University of Pittsburgh, and acquired a degree in Economics and Anthropology.</p><p>Vicki has been employed in the Business and IT field for approximately 20 years, so it made it easier to study GIS and its applications. Vicki has also recently acquired a certificate of completion for Project Management studies at Penn State, York and a Pennsylvania Property/Casualty Producer License. She is looking forward to her time on the PaMagic Board. She and her husband Randy live in York with daughters Holli and Carli.</p>"
             },
             "location": {
                 "lat": 40.072844, 
@@ -103,7 +103,7 @@
         },{
             "text": {
                 "headline": "Albert Sarvis (Board Member)",
-                "text": "<p>Waiting for Text</p>"
+                "text": "<p>Mr. Sarvis has been a long time resident of the Central Pennsylvania area and has 19 years of Geographic Information Systems (GIS) industry experience and more than 10 years as a GIS/IT project manager.  His educational background focused on Environmental studies, Geography/Geospatial Technology and Project Management.  Upon completion of his Masters degree in Geography Mr. Sarvis worked in the field of GIS data migration serving as a production manager in the Washington DC area.  After several years in DC he moved to Bloomington Indiana and worked as the Assistant GIS Coordinator for the City.  While in Indiana Mr. Sarvis was also an adjunct faculty member of Indiana University’s School of Public and Environmental Affairs (SPEA), teaching the Introduction and Applied GIS courses.  In the summer of 1999 Mr. Sarvis moved back to the Harrisburg area to work for a utility software development company.  In this job Mr. Sarvis began project management responsibilities, had an opportunity to work for 14 months at the company’s corporate headquarters in Great Britain, and became involved in managing the innovation and design process for new products.</p><p>Mr. Sarvis joined GeoDecisions, a division of Gannett Fleming Inc., in 2005 as a project manager and business analyst for government GIS/IT projects.  In the same year Mr. Sarvis began a corporate faculty position with Harrisburg University of Science and Technology teaching geospatial technology courses.  His GeoDecisions projects involved the design and development of a web based GIS applications, design of a new transportation data model and GIS system, a GIS Web Portal for the North Dakota Department of Transportation, and management of the development of the Pennsylvania Geospatial Data Sharing Standards (PGDSS) project to develop data sharing standards for framework GIS layers in the state of Pennsylvania.  Most recently Mr. Sarvis worked with the City of New York to develop environmental public health and vacant property redevelopment GIS web portals. Mr. Sarvis also served as a business analyst for GIS Strategic Planning and GIS for Government consulting projects.</p><p>In January of 2011 Mr. Sarvis joined Harrisburg University as a full time Assistant Professor of Geospatial Technology and IT Project Management.  He is responsible for coordinating, teaching and aligning corporate faculty members for both programs.  Mr. Sarvis brings a unique perspective to Harrisburg University that aligns well with the focus on experiential learning.  The industry contacts developed over Mr. Sarvis’s career provide an extensive network of professional project, internship and career opportunities for HU students.</p>"            
             },
             "location": {
                 "lat": 40.262032, 
@@ -111,7 +111,7 @@
                 "zoom": 11                
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/pamagic-board-2017-pagisconf.jpg"          
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/albert-sarvis.jpg"          
             }
         },{
             "text": {
