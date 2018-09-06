@@ -13,23 +13,32 @@ html {
 html, 
 body {
     margin: 0;
-    padding: 0;
+    padding: 0;    
+}
+
+html, 
+body,
+#storyMap {
     height: 100%;
     width: 100%;
 }
 
 /* story map container */
-#storyMap {
-    width: 100%;
-    height: 100%;
+#storyMap {   
     margin: 0 auto;    
 }
 
 /* story map menu bar */
 .vco-menubar-button,
-.vco-mobile .vco-menubar-button:hover {
-    background-color: #0b3c5d;
+.vco-mobile .vco-menubar-button:hover,
+/* map icons */
+.vco-map .vco-mapmarker {
     color: #fff;
+}
+
+.vco-menubar-button,
+.vco-mobile .vco-menubar-button:hover {
+    background-color: #0b3c5d;    
 }
 
 .vco-menubar-button {    
@@ -53,11 +62,6 @@ body {
     text-decoration: underline;
 }
 
-/* map icons */
-.vco-map .vco-mapmarker {
-    color: #fff;
-}
-
 .vco-map .vco-mapmarker-icon:after {
     content: url(../images/pamagic-marker.png);
 }
@@ -70,6 +74,11 @@ body {
     -moz-transition: background-color 0.2s ease-in-out;
     -o-transition: background-color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out;
+}
+
+.vco-mobile .vco-layout-landscape .vco-storyslider .vco-slidenav-next,
+.vco-mobile .vco-layout-landscape .vco-storyslider .vco-slidenav-previous {
+    display: none !important;
 }
 
 /* tour points text */
@@ -93,12 +102,12 @@ div.vco-storymap.vco-mobile.vco-layout-landscape > div.vco-storyslider.vco-story
     font-size: 1.4em;
 }
 
-.vco-text-content {
-    font-size: 1.05em;    
-}
-
 .vco-text p {
     color: #333;
+}
+
+.vco-storymap p {
+    line-height: 1.25em;
 }
 
 /* leaflet elements */
@@ -117,5 +126,25 @@ div.vco-storymap.vco-mobile.vco-layout-landscape > div.vco-storyslider.vco-story
     .vco-slide-content {
         padding-left: 10px !important;
         margin-right: -20px !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .vco-media .vco-media-content-container .vco-media-content img {
+        max-height: 250px;
+    }
+    
+    .vco-storymap p {
+        margin: 25px 0;
+        font-size: 1.05em;        
+        line-height: 1.5em;
+    }
+    
+    .vco-storymap p:first-child {
+        margin-top: 10px;
+    }
+    
+    .vco-storymap p:last-child {
+        margin-bottom: 10px;
     }
 }
