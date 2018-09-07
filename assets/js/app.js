@@ -6,7 +6,7 @@ const storymap_data = './assets/data/pamagicBoard.json';
 // certain settings must be passed within a separate options object
 const storymap_options = {
     "language": "en",
-     "map_type": "osm:standard",
+     "map_type": "mapbox:mapbox.emerald",
     "calculate_zoom": false    
 };
 
@@ -29,7 +29,7 @@ function addAltTextToImage() {
 }
 
 // storymap loaded
-// this works on desktop devices. It causes map to not load on mobile
+// this works on desktop devices. It causes map to not load on mobile in portrait
 //storymap.on("loaded", addAltTextToImage);
 // slide changes
 storymap.on("change", addAltTextToImage);
