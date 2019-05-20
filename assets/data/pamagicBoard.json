@@ -24,19 +24,6 @@
             }
         },{
             "text": {
-                "headline": "Eric Jespersen (Vice President)",
-                "text": "<p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p><p>Eric encourages young professionals to engage in public service, having found the information and connections from that ever useful. He works part-time for JMT Technology Group as Business Development Specialist.</p>"
-            },
-            "location": {
-                "lat": 41.018419,
-                "lon": -76.006063,
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/eric_jespersen.jpg"         
-            }
-        },{
-            "text": {
                 "headline": "Vicki Wilt (Secretary)",
                 "text": "<p>Vicki was drawn to GIS in 2013 when she attended GIS day at HACC with her daughter Holli, a high school senior. They both enjoyed the high school workshops, and the exhibit hall displaying the GIS applications and uses. Holli went to the University of Pittsburgh to study Environmental Geology, and Vicki went back to school to study GIS at HACC.  Vicki has volunteered with PaMagic while acquiring her Diploma in GIS, and is currently a Geo-Mentor with AAG-ESRI.  Vicki is also an alumni of the University of Pittsburgh, and acquired a degree in Economics and Anthropology.</p><p>Vicki has been employed in the Business and IT field for approximately 20 years, so it made it easier to study GIS and its applications. Vicki has also recently acquired a certificate of completion for Project Management studies at Penn State, York and a Pennsylvania Property/Casualty Producer License. She is looking forward to her time on the PaMagic Board. She and her husband Randy live in York with daughters Holli and Carli.</p>"
             },
@@ -50,7 +37,7 @@
             }
         },{
             "text": {
-                "headline": "Patrick McKinney (Treasurer & Webmaster)",
+                "headline": "Patrick McKinney (Treasurer, Acting Vice President, Webmaster)",
                 "text": "<p>Patrick is a GIS Specialist for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He also enjoys playing bass guitar, drinking quality coffees and teas, and spending time with his family.</p>"
             },
             "location": {
@@ -73,19 +60,6 @@
             },
             "media": {
                 "url": "//maps.pamagic.org/meet-the-board/assets/images/mark-bowen.png"          
-            }
-        },{
-            "text": {
-                "headline": "Tom Edinger (Board Member)",
-                "text": "<p>Tom works for the Delaware Valley Regional Planning Commission, where he performs planning and research in regards to transportation congestion management, including development and use of GIS tools for data analysis and reporting.</p>"
-            },
-            "location": {
-                "lat": 39.954559, 
-                "lon": -75.149979, 
-                "zoom": 11                
-            },
-            "media": {
-                    "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_edinger.png"    
             }
         },{
             "text": {
