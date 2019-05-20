@@ -6,7 +6,7 @@ const storymap_data = './assets/data/pamagicBoard.json';
 // certain settings must be passed within a separate options object
 const storymap_options = {
     "language": "en",
-     "map_type": "mapbox:mapbox.emerald",
+     "map_type": "osm:standard",
     "calculate_zoom": false    
 };
 
