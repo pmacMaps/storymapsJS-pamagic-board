@@ -3,7 +3,7 @@
             "type": "overview",
             "text": {
                 "headline": "Meet the PaMAGIC Leadership Team",
-                "text": "<p>The PaMAGIC Leadership Team is comprised of the nine-member Board of Directors, Pennsylvania Geoboard representative, Membership Chair, and Webmaster.</p><p>Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The terms overlap and three positions are elected each year. Elections are held each May.</p><p>Visit the <a href='https://pamagic.org/' target='_blank'>PaMAGIC website</a> to learn more about our organization.</p>"
+                "text": "<p>The PaMAGIC Leadership Team is comprised of the nine-member Board of Directors, Pennsylvania Geoboard representative, Membership Chair, and Webmaster.</p><p>Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The terms overlap and three positions are elected each year. Elections are held each May.</p><p>Visit the <a href='https://pamagic.org/' target=_blank' rel='noopener'>PaMAGIC website</a> to learn more about our organization.</p>"
             },
             "media": {
                     "url": "//maps.pamagic.org/meet-the-board/assets/images/pamagic-blue-whitespace.png",
@@ -11,47 +11,8 @@
             }
         },{
             "text": {
-                "headline": "Mark Maguire (President)",
-                "text": "<p>Mark Maguire is currently GIS Manager at Civil & Environmental Consultants in Pittsburgh, PA.  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
-            },
-            "location": {
-                "lat": 40.424524, 
-                "lon": -80.100640, 
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark_maguire.jpg"           
-            }
-        },{
-            "text": {
-                "headline": "Eric Jespersen (Vice President)",
-                "text": "<p>With over 30 years of experience, Eric is broadly knowledgeable in land surveying, forestry and natural resources, and geospatial technologies. He was instrumental in the founding of PaMAGIC in 1996 and has served six terms as a MAGIC Board Member including five years as President, many years as ad hoc liaison to NSGIC, a long stint as subject matter expert on Political Boundaries for PGDSS, and organizer of the annual InfoSwap party.</p><p>Eric encourages young professionals to engage in public service, having found the information and connections from that ever useful. He works part-time for JMT Technology Group as Business Development Specialist.</p>"
-            },
-            "location": {
-                "lat": 41.018419,
-                "lon": -76.006063,
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/eric_jespersen.jpg"         
-            }
-        },{
-            "text": {
-                "headline": "Vicki Wilt (Secretary)",
-                "text": "<p>Vicki was drawn to GIS in 2013 when she attended GIS day at HACC with her daughter Holli, a high school senior. They both enjoyed the high school workshops, and the exhibit hall displaying the GIS applications and uses. Holli went to the University of Pittsburgh to study Environmental Geology, and Vicki went back to school to study GIS at HACC.  Vicki has volunteered with PaMagic while acquiring her Diploma in GIS, and is currently a Geo-Mentor with AAG-ESRI.  Vicki is also an alumni of the University of Pittsburgh, and acquired a degree in Economics and Anthropology.</p><p>Vicki has been employed in the Business and IT field for approximately 20 years, so it made it easier to study GIS and its applications. Vicki has also recently acquired a certificate of completion for Project Management studies at Penn State, York and a Pennsylvania Property/Casualty Producer License. She is looking forward to her time on the PaMagic Board. She and her husband Randy live in York with daughters Holli and Carli.</p>"
-            },
-            "location": {
-                "lat": 40.072844, 
-                "lon": -76.752341, 
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/vicki-wilt.png"          
-            }
-        },{
-            "text": {
-                "headline": "Mark Bowen (Board Member)",
-                "text": "<p>Mark Bowen is currently GIS & CMMS Manager at Lehigh County Authority in Lower Macungie, PA. Mark graduated from West Chester University with a B.A. Geographer and is currently finishing his M.S. in Geography with a concentration in geospatial technology. During his undergraduate career at West Chester, Mark interned with Cedarville Engineering Group, where he worked on building databases and asset management software.</p><p>Mark took an opportunity to join Lehigh County Authority in 2016 as a GIS Specialist. There he implemented multiple geospatial solutions to improve field operations and enhance business processes. In 2017 Mark assumed the role of GIS & CMMS Manager, overseeing all asset management and GIS software development for the Authority. Mark currently serves on the PA-AWWA IT Committee and leads the Lehigh Valley GIS Group. Mark actively attends and presents at local and national conferences, sharing strategies for GIS implementation in the water and wastewater industry.</p><p>Mark currently resides in the Philadelphia region with his fiancé. Mark enjoys being active in organizations that focus on promoting and enhancing the GIS community. Mark enjoys travelling the world and immersing himself in other cultures.</p>"
+                "headline": "Mark Bowen (President)",
+                "text": "<p>Mark Bowen is currently the GIS & Cityworks Manager at Lehigh County Authority in Lower Macungie, PA. Mark graduated from West Chester University with a BA and MS in Geography with a concentration in geospatial technology. During his undergraduate career at West Chester, Mark interned with Cedarville Engineering Group, where he worked on building databases and asset management software.</p><p>Mark took an opportunity to join Lehigh County Authority in 2016 as a GIS Specialist. There he implemented multiple geospatial solutions to improve field operations and enhance business processes. In 2017 Mark assumed the role of GIS & Cityworks Manager, overseeing all asset management and GIS software development for the Authority. Mark current serves on the PA-AWWA IT Committee and leads the Lehigh Valley GIS Group. Mark actively attends and presents at local and national conferences, sharing strategies for GIS implementation in the water and wastewater industry. </p><p>Mark currently resides in the Philadelphia region with his wife and Jack Russell, Maui. Mark enjoys being active in organizations that focus on promoting and enhancing the GIS community. Mark enjoys travelling the world and immersing himself in other cultures.</p>"
             },
             "location": {
                 "lat": 40.258417, 
@@ -63,16 +24,55 @@
             }
         },{
             "text": {
-                "headline": "Tom Edinger (Board Member)",
-                "text": "<p>Tom works for the Delaware Valley Regional Planning Commission, where he performs planning and research in regards to transportation congestion management, including development and use of GIS tools for data analysis and reporting.</p>"
+                "headline": "Patrick McKinney (Vice President; Webmaster)",
+                "text": "<p>Patrick is a GIS Analyst for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He is active presenting at professional conferences.  Working with Harrisburg University, Patrick founded the annual GeoDev Summit, a one-day event geared toward GIS developers.</p><p>Prior to working with Cumberland County, Patrick was a Planner with Lancaster County.  He has also worked with Indiana County’s Planning and Parks & Trails offices.  He is also a skilled musician, with a focus on bass and guitar.  He blogs regularly with his wife at <a href='https://mckinneypartyof5.life/' rel='noopener' target=_blank'>https://mckinneypartyof5.life/</a>.  If you’re ever in downtown Carlisle over the lunch hour, you may find Patrick running around town.</p>"
             },
             "location": {
-                "lat": 39.954559, 
-                "lon": -75.149979, 
+                "lat": 40.201557,
+                "lon": -77.189026,
                 "zoom": 11                
             },
             "media": {
-                    "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_edinger.png"    
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/patrick-mckinney.jpg"       
+            }
+        },{
+            "text": {
+                "headline": "James Whitacre (Secretary)",
+                "text": "<p>James Whitacre is the GIS Research Scientist for Carnegie Museum of Natural History, where he primarily manages the GIS Lab at Powdermill Nature Reserve, the Museum’s environmental research center. For over a decade, the GIS Lab at Powdermill has produced numerous geospatial projects on the Nature Reserve and throughout the region in forest ecology, stream ecology, and avian research, among other topics. The GIS Lab also maintains numerous geospatial datasets that can be used for geospatial research and analysis. Additionally, Whitacre supports museum staff and affiliated researchers with geospatial technologies and needs.</p><p>This is Whitacre’s second appointment at the Museum as he was formerly the GIS Manager from 2011 to 2014. During that time, he was instrumental in developing the Pennsylvania Unconventional Natural Gas Wells dataset, which has been used in numerous research projects and publications. Whitacre’s professional interests include sUAS, photogrammetry, and Lidar applications for forest ecology; Python development and education in GIS; and the nexus of GIS and citizen science.</p><p>Before returning to the Museum in 2018, Whitacre was the GIS Specialist for the Main Library at the University of Illinois at Urbana-Champaign, where he provided GIS consultations for researchers and scholars, taught GIS workshops, managed the Library’s geospatial data, and served as a central resource for the University’s GIS community to promote the use of GIS in research. While in Illinois, Whitacre served as the Co-Chair of the University of Illinois GIS Day Planning Committee from 2014 to 2017. He was also an active member in the Illinois GIS Association (ILGISA) and served on the Education Committee in 2016. Whitacre holds a Bachelor of Arts in Zoology from Ohio Wesleyan University, and a Master of Science in Geography, concentrating on GIS and cartography, from Indiana University of Pennsylvania.</p>"
+            },
+            "location": {
+                "lat": 40.160,
+                "lon": -79.272,
+                "zoom": 11                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/2017_Whitacre_James.png"         
+            }
+        },{
+            "text": {
+                "headline": "Albert Sarvis (Treasurer)",
+                "text": "<p>Mr. Sarvis has been a long time resident of the Central Pennsylvania area and has 19 years of Geographic Information Systems (GIS) industry experience and more than 10 years as a GIS/IT project manager.  His educational background focused on Environmental studies, Geography/Geospatial Technology and Project Management.  Upon completion of his Master's degree in Geography Mr. Sarvis worked in the field of GIS data migration serving as a production manager in the Washington DC area.  After several years in DC he moved to Bloomington Indiana and worked as the Assistant GIS Coordinator for the City.  While in Indiana Mr. Sarvis was also an adjunct faculty member of Indiana University’s School of Public and Environmental Affairs (SPEA), teaching the Introduction and Applied GIS courses.  In the summer of 1999 Mr. Sarvis moved back to the Harrisburg area to work for a utility software development company.  In this job Mr. Sarvis began project management responsibilities, had an opportunity to work for 14 months at the company’s corporate headquarters in Great Britain, and became involved in managing the innovation and design process for new products.</p><p>Mr. Sarvis joined GeoDecisions, a division of Gannett Fleming Inc., in 2005 as a project manager and business analyst for government GIS/IT projects.  In the same year Mr. Sarvis began a corporate faculty position with Harrisburg University of Science and Technology teaching geospatial technology courses.  His GeoDecisions projects involved the design and development of a web based GIS applications, design of a new transportation data model and GIS system, a GIS Web Portal for the North Dakota Department of Transportation, and management of the development of the Pennsylvania Geospatial Data Sharing Standards (PGDSS) project to develop data sharing standards for framework GIS layers in the state of Pennsylvania.  Most recently Mr. Sarvis worked with the City of New York to develop environmental public health and vacant property redevelopment GIS web portals. Mr. Sarvis also served as a business analyst for GIS Strategic Planning and GIS for Government consulting projects.</p><p>In January of 2011 Mr. Sarvis joined Harrisburg University as a full time Assistant Professor of Geospatial Technology and IT Project Management.  He is responsible for coordinating, teaching and aligning corporate faculty members for both programs.  Mr. Sarvis brings a unique perspective to Harrisburg University that aligns well with the focus on experiential learning.  The industry contacts developed over Mr. Sarvis’s career provide an extensive network of professional project, internship and career opportunities for HU students.</p>"            
+            },
+            "location": {
+                "lat": 40.262032, 
+                "lon": -76.880388, 
+                "zoom": 11                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/albert-sarvis.jpg"          
+            }
+        },{
+            "text": {
+                "headline": "Mark Maguire (Board Member)",
+                "text": "<p>Mark Maguire is currently GIS Manager at Civil & Environmental Consultants in Pittsburgh, PA.  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
+            },
+            "location": {
+                "lat": 40.424524, 
+                "lon": -80.100640, 
+                "zoom": 11                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark_maguire.jpg"           
             }
         },{
             "text": {
@@ -89,34 +89,8 @@
             }
         },{
             "text": {
-                "headline": "Patrick McKinney (Board Member & Webmaster)",
-                "text": "<p>Patrick is a GIS Specialist for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He also enjoys playing bass guitar, drinking quality coffees and teas, and spending time with his family.</p>"
-            },
-            "location": {
-                "lat": 40.201557,
-                "lon": -77.189026,
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/patrick-mckinney.jpg"       
-            }
-        },{
-            "text": {
-                "headline": "Albert Sarvis (Board Member)",
-                "text": "<p>Mr. Sarvis has been a long time resident of the Central Pennsylvania area and has 19 years of Geographic Information Systems (GIS) industry experience and more than 10 years as a GIS/IT project manager.  His educational background focused on Environmental studies, Geography/Geospatial Technology and Project Management.  Upon completion of his Masters degree in Geography Mr. Sarvis worked in the field of GIS data migration serving as a production manager in the Washington DC area.  After several years in DC he moved to Bloomington Indiana and worked as the Assistant GIS Coordinator for the City.  While in Indiana Mr. Sarvis was also an adjunct faculty member of Indiana University’s School of Public and Environmental Affairs (SPEA), teaching the Introduction and Applied GIS courses.  In the summer of 1999 Mr. Sarvis moved back to the Harrisburg area to work for a utility software development company.  In this job Mr. Sarvis began project management responsibilities, had an opportunity to work for 14 months at the company’s corporate headquarters in Great Britain, and became involved in managing the innovation and design process for new products.</p><p>Mr. Sarvis joined GeoDecisions, a division of Gannett Fleming Inc., in 2005 as a project manager and business analyst for government GIS/IT projects.  In the same year Mr. Sarvis began a corporate faculty position with Harrisburg University of Science and Technology teaching geospatial technology courses.  His GeoDecisions projects involved the design and development of a web based GIS applications, design of a new transportation data model and GIS system, a GIS Web Portal for the North Dakota Department of Transportation, and management of the development of the Pennsylvania Geospatial Data Sharing Standards (PGDSS) project to develop data sharing standards for framework GIS layers in the state of Pennsylvania.  Most recently Mr. Sarvis worked with the City of New York to develop environmental public health and vacant property redevelopment GIS web portals. Mr. Sarvis also served as a business analyst for GIS Strategic Planning and GIS for Government consulting projects.</p><p>In January of 2011 Mr. Sarvis joined Harrisburg University as a full time Assistant Professor of Geospatial Technology and IT Project Management.  He is responsible for coordinating, teaching and aligning corporate faculty members for both programs.  Mr. Sarvis brings a unique perspective to Harrisburg University that aligns well with the focus on experiential learning.  The industry contacts developed over Mr. Sarvis’s career provide an extensive network of professional project, internship and career opportunities for HU students.</p>"            
-            },
-            "location": {
-                "lat": 40.262032, 
-                "lon": -76.880388, 
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/albert-sarvis.jpg"          
-            }
-        },{
-            "text": {
                 "headline": "Robert Schwarz (Board Member)",
-                "text": "<p>Rob Schwarz graduated from Mansfield University with a B.S. in Geography and Minor in Regional Planning in 2003. During that time he started his career with the Tioga County GIS department, to which he became Director. During that time he served on various committees and as VP for the County Pros.</p><p>Rob took an opportunity in the private sector in 2012 as GIS Manager for Wildlife Specialists. There he streamlined the companies GIS data flow from field to client, trained field staff on field data collection and ESRI software. Rob received his GISP in 2012.</p><p>In 2013 Rob partnered with an owner of Wildlife Specialists to form Remote Intelligence, a UAV service provider, where he continues today as co-founder with three others. Rob values his experiences from both public and private sector and looks forward to continuing the great work that PAMAGIC has accomplished in the GIS community.</p>"
+                "text": "<p>Rob Schwarz graduated from Mansfield University with a B.S. in Geography and Minor in Regional Planning in 2003. During that time he started his career with the Tioga County GIS department, to which he became Director. During that time he served on various committees and as VP for the County Pros.</p><p>Rob took an opportunity in the private sector in 2012 as GIS Manager for Wildlife Specialists. There he streamlined the companies GIS data flow from field to client, trained field staff on field data collection and ESRI software. Rob received his GISP in 2012.</p><p>In 2013 Rob partnered with an owner of Wildlife Specialists to form Remote Intelligence, a UAV services provider. Rob values his experiences from both public and private sector and looks forward to continuing the great work that PAMAGIC has accomplished in the GIS community.</p>In 2018 Rob joined the team at Civil and Environmental Consultants as Lead UAS Pilot/Project Scientist. He is enjoying building on his past experiences with UAS, GIS, business development, oil and gas, as well as wetland ecology.</p><p>Rob lives in Tioga County and enjoys doing all sorts of outdoor activities with his wife and 4 children.</p>"
             },
             "location": {
                 "lat": 41.958864,
@@ -125,6 +99,19 @@
             },
             "media": {
                 "url": "//maps.pamagic.org/meet-the-board/assets/images/rob-schwarz.jpg"         
+            }
+        },{
+            "text": {
+                "headline": "Vicki Wilt (Board Member)",
+                "text": "<p>Vicki was drawn to GIS in 2013 when she attended GIS day at HACC with her daughter Holli, a high school senior. They both enjoyed the high school workshops, and the exhibit hall displaying the GIS applications and uses. Holli went to the University of Pittsburgh to study Environmental Geology, and Vicki went back to school to study GIS at HACC.  Vicki has volunteered with PaMAGIC while acquiring her Diploma in GIS, and is currently a Geo-Mentor with AAG-ESRI.  Vicki is also an alumni of the University of Pittsburgh, and acquired a degree in Economics and Anthropology.</p><p>Vicki has been employed in the Business and IT field for approximately 20 years, so it made it easier to study GIS and its applications. Vicki has also recently acquired a certificate of completion for Project Management studies at Penn State, York and a Pennsylvania Property/Casualty Producer License. She is looking forward to her time on the PaMAGIC Board. She and her husband Randy live in York with daughters Holli and Carli.</p>"
+            },
+            "location": {
+                "lat": 40.072844, 
+                "lon": -76.752341, 
+                "zoom": 11                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/vicki-wilt.png"          
             }
         },{
             "text": {
@@ -154,4 +141,4 @@
             }
         }]
     }
-} 
+}
