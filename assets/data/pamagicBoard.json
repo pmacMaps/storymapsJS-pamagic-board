@@ -129,11 +129,11 @@
         },{
             "text": {
                 "headline": "Tom Denton (Member Chair)",
-                "text": "<p>Thomas Denton is a Research and Planning Systems Analyst at the Archdiocese of Philadelphia which serves 5 counties in the southeastern portion of Pennsylvania. He manages their GIS data and their ArcGIS online map. He also manages annual collection and reporting of their demographic surveys. His past experience includes project management and planning in the environmental and construction industry.</p><p>Tom currently serves as PAMAGIC's Membership Chair.</p>"
+                "text": "<p>Tom has been working with GIS since 1996. He started working with it in a survey class at Delaware Valley University. He then continued his GIS studies at West Chester University and used it in his doctoral thesis at Warren National University (now-defunct university). Tom has used GIS in various ways such as: for environmental /engineering industry, church non-profit data, and US Census demographics.</p><p>Tom has taught geography and environment classes as an adjunct professor at Pennsylvania State University, Delaware County Community College and is currently with Temple University.  He recently transitioned into the healthcare industry as a registered nurse. Tom continues to be the PAMAGIC membership chair. He am open to consulting or collaboration on projects or new ventures. Feel free to reach out for anything!  You can <a href='mailto:tdent465@gmail.com' target=_blank' rel='noopener'>e-mail</a> Tom.</p>"
             },
             "location": {
-                "lat": 39.95778,
-                "lon": -75.16722,
+                "lat": 39.981,
+                "lon": -75.309,
                 "zoom": 11                
             },
             "media": {
