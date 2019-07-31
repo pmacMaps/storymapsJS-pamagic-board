@@ -63,6 +63,19 @@
             }
         },{
             "text": {
+                "headline": "Steve Beck (Board Member)",
+                "text": "<p>Steve recently retired from a career that spanned over 43 years and included positions in mapping and graphics, Geographic Information Systems (GIS), Enterprise Content Management (ECM) software and applications, project management, and college level teaching. He served as a Project Manager and Senior Consultant for Johnson, Mirmiran, and Thompson, Incorporated (JMT) on GIS and ECM implementation projects. Awards given to projects that he managed included a Regional Project Award by the Pennsylvania Consulting Engineering Council in 2002 and an Exemplary Government System Award by URISA in 2003. Prior to working for JMT, he worked for KCI Technologies in various capacities ranging from System Administrator to Senior GIS Analyst/Project Manager.</p><p>He graduated from Shippensburg University of Pennsylvania with a Bachelor of Arts degree in Urban Studies.  He earned a Master of Arts degree in Geography and Environmental Planning from Towson University. He has been teaching Introductory GIS courses at Shippensburg University as an adjunct instructor and will begin teaching at York College of PA this fall.  He serves on the Shippensburg University Department of Geography and Earth Science’s Advisory Council.</p><p>He resides with his wife Sally, in the Borough of New Freedom in southern York County, Pennsylvania. Their daughter Lauren lives with her husband Greg and grandsons Graydon and Fletcher in Williamsburg, Virginia.  Their son, Adam is an attorney in Washington, DC.</p>"
+            },
+            "location": {
+                "lat": 39.7379, 
+                "lon": -76.7014, 
+                "zoom": 11                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/SBECK_PIC.JPG"           
+            }
+        },{
+            "text": {
                 "headline": "Mark Maguire (Board Member)",
                 "text": "<p>Mark Maguire is currently GIS Manager at Civil & Environmental Consultants in Pittsburgh, PA.  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
             },
