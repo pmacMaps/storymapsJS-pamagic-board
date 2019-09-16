@@ -77,11 +77,11 @@
         },{
             "text": {
                 "headline": "Mark Maguire (Board Member)",
-                "text": "<p>Mark Maguire is currently GIS Manager at Civil & Environmental Consultants in Pittsburgh, PA.  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
+                "text": "<p>Mark Maguire is currently a Senior GIS Specialist with Herbert, Rowland & Grubic, Inc..  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
             },
             "location": {
-                "lat": 40.424524, 
-                "lon": -80.100640, 
+                "lat": 40.711807, 
+                "lon": -80.117433, 
                 "zoom": 11                
             },
             "media": {
@@ -102,7 +102,7 @@
             }
         },{
             "text": {
-                "headline": "Robert Schwarz (Board Member)",
+                "headline": "a Schwarz (Board Member)",
                 "text": "<p>Rob Schwarz graduated from Mansfield University with a B.S. in Geography and Minor in Regional Planning in 2003. During that time he started his career with the Tioga County GIS department, to which he became Director. During that time he served on various committees and as VP for the County Pros.</p><p>Rob took an opportunity in the private sector in 2012 as GIS Manager for Wildlife Specialists. There he streamlined the companies GIS data flow from field to client, trained field staff on field data collection and ESRI software. Rob received his GISP in 2012.</p><p>In 2013 Rob partnered with an owner of Wildlife Specialists to form Remote Intelligence, a UAV services provider. Rob values his experiences from both public and private sector and looks forward to continuing the great work that PAMAGIC has accomplished in the GIS community.</p>In 2018 Rob joined the team at Civil and Environmental Consultants as Lead UAS Pilot/Project Scientist. He is enjoying building on his past experiences with UAS, GIS, business development, oil and gas, as well as wetland ecology.</p><p>Rob lives in Tioga County and enjoys doing all sorts of outdoor activities with his wife and 4 children.</p>"
             },
             "location": {
