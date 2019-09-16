@@ -10,11 +10,14 @@ const storymap_options = {
     "calculate_zoom": false    
 };
 
+// the story map object
 const storymap = new VCO.StoryMap('storyMap', storymap_data, storymap_options);
 
-window.onresize = function(event) {
-    storymap.updateDisplay(); // this isn't automatic
-}
+// determien whether user is accessing site from mobile or desktop device
+const detectDeviceType = () =>
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+    ? 'Mobile'
+    : 'Desktop';
 
 // function to add alt text to images
 function addAltTextToImage() {
@@ -28,8 +31,25 @@ function addAltTextToImage() {
     slideImage.alt = headlineText;      
 }
 
-// storymap loaded
-// this works on desktop devices. It causes map to not load on mobile in portrait
-//storymap.on("loaded", addAltTextToImage);
-// slide changes
+// update display on resize of window
+window.onresize = function(event) {
+    storymap.updateDisplay(); // this isn't automatic
+}
+
+// add alt attribute to images on slide changes
 storymap.on("change", addAltTextToImage);
+
+// event for when the story map is loaded
+storymap.on("loaded", function() {
+    // leaflet map object
+    const leafletMap = storymap.map;
+    // create a zoom control and add to map
+    const zoomControl = L.control.zoom({position:'topleft'}).addTo(leafletMap);
+    // determine user device type
+    var userDevice = detectDeviceType();
+    // add alt image to initial image if desktop device
+    // running this function within "loaded" event on mobile causes error and app not loading
+    if (userDevice === 'Desktop') {
+        addAltTextToImage();
+    }    
+});

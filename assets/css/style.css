@@ -129,6 +129,17 @@ div.vco-storymap.vco-mobile.vco-layout-landscape > div.vco-storyslider.vco-story
     }
 }
 
+/* override zoom control being hidden */
+@media screen and (max-width: 451px) {
+    .vco-mobile.vco-skinny .leaflet-control-zoom {
+        display: inherit;        
+    }
+
+    div.leaflet-top.leaflet-left {
+        margin-top: 20px;
+    }
+}
+
 @media screen and (max-width:768px) {
     .vco-media .vco-media-content-container .vco-media-content img {
         max-height: 250px;
