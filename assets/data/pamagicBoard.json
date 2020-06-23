@@ -24,19 +24,6 @@
             }
         },{
             "text": {
-                "headline": "Patrick McKinney (Vice President; Webmaster)",
-                "text": "<p>Patrick is a GIS Analyst for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He is active presenting at professional conferences.  Working with Harrisburg University, Patrick founded the annual GeoDev Summit, a one-day event geared toward GIS developers.</p><p>Prior to working with Cumberland County, Patrick was a Planner with Lancaster County.  He has also worked with Indiana County’s Planning and Parks & Trails offices.  He is also a skilled musician, with a focus on bass and guitar.  He blogs regularly with his wife at <a href='https://mckinneypartyof5.life/' rel='noopener' target=_blank'>https://mckinneypartyof5.life/</a>.  If you’re ever in downtown Carlisle over the lunch hour, you may find Patrick running around town.</p>"
-            },
-            "location": {
-                "lat": 40.201557,
-                "lon": -77.189026,
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/patrick-mckinney.jpg"       
-            }
-        },{
-            "text": {
                 "headline": "James Whitacre (Secretary)",
                 "text": "<p>James Whitacre is the GIS Research Scientist for Carnegie Museum of Natural History, where he primarily manages the GIS Lab at Powdermill Nature Reserve, the Museum’s environmental research center. For over a decade, the GIS Lab at Powdermill has produced numerous geospatial projects on the Nature Reserve and throughout the region in forest ecology, stream ecology, and avian research, among other topics. The GIS Lab also maintains numerous geospatial datasets that can be used for geospatial research and analysis. Additionally, Whitacre supports museum staff and affiliated researchers with geospatial technologies and needs.</p><p>This is Whitacre’s second appointment at the Museum as he was formerly the GIS Manager from 2011 to 2014. During that time, he was instrumental in developing the Pennsylvania Unconventional Natural Gas Wells dataset, which has been used in numerous research projects and publications. Whitacre’s professional interests include sUAS, photogrammetry, and Lidar applications for forest ecology; Python development and education in GIS; and the nexus of GIS and citizen science.</p><p>Before returning to the Museum in 2018, Whitacre was the GIS Specialist for the Main Library at the University of Illinois at Urbana-Champaign, where he provided GIS consultations for researchers and scholars, taught GIS workshops, managed the Library’s geospatial data, and served as a central resource for the University’s GIS community to promote the use of GIS in research. While in Illinois, Whitacre served as the Co-Chair of the University of Illinois GIS Day Planning Committee from 2014 to 2017. He was also an active member in the Illinois GIS Association (ILGISA) and served on the Education Committee in 2016. Whitacre holds a Bachelor of Arts in Zoology from Ohio Wesleyan University, and a Master of Science in Geography, concentrating on GIS and cartography, from Indiana University of Pennsylvania.</p>"
             },
@@ -76,19 +63,6 @@
             }
         },{
             "text": {
-                "headline": "Mark Maguire (Board Member)",
-                "text": "<p>Mark Maguire is currently a Senior GIS Specialist with Herbert, Rowland & Grubic, Inc..  He is a certified Geographic Information Systems Professional (GISP) with more than 16 years of experience applying GIS and spatial technology to energy, infrastructure, natural resource, and environmental compliance projects.</p><p>Mark earned a master’s degree in Geography from Boston University in 2003.  In his spare time, he enjoys ultimate frisbee, home construction projects, and interesting craft beer.  Since moving to Pittsburgh in 2009, he has enjoyed exploring the rich cultural and topographic history of Western Pennsylvania, and considers himself a connoisseur of Pittsburgh trivia.</p>"
-            },
-            "location": {
-                "lat": 40.711807, 
-                "lon": -80.117433, 
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark_maguire.jpg"           
-            }
-        },{
-            "text": {
                 "headline": "Matt Mercurio (Board Member)",
                 "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
             },
@@ -99,19 +73,6 @@
             },
             "media": {
                 "url": "//maps.pamagic.org/meet-the-board/assets/images/matt-mercurio.png"          
-            }
-        },{
-            "text": {
-                "headline": "Rob Schwarz (Board Member)",
-                "text": "<p>Rob Schwarz graduated from Mansfield University with a B.S. in Geography and Minor in Regional Planning in 2003. During that time he started his career with the Tioga County GIS department, to which he became Director. During that time he served on various committees and as VP for the County Pros.</p><p>Rob took an opportunity in the private sector in 2012 as GIS Manager for Wildlife Specialists. There he streamlined the companies GIS data flow from field to client, trained field staff on field data collection and ESRI software. Rob received his GISP in 2012.</p><p>In 2013 Rob partnered with an owner of Wildlife Specialists to form Remote Intelligence, a UAV services provider. Rob values his experiences from both public and private sector and looks forward to continuing the great work that PAMAGIC has accomplished in the GIS community.</p>In 2018 Rob joined the team at Civil and Environmental Consultants as Lead UAS Pilot/Project Scientist. He is enjoying building on his past experiences with UAS, GIS, business development, oil and gas, as well as wetland ecology.</p><p>Rob lives in Tioga County and enjoys doing all sorts of outdoor activities with his wife and 4 children.</p>"
-            },
-            "location": {
-                "lat": 41.958864,
-                "lon": -76.988433,
-                "zoom": 11                
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/rob-schwarz.jpg"         
             }
         },{
             "text": {
@@ -138,6 +99,19 @@
             },
             "media": {
                 "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_denton.jpg"            
+            }
+        },{
+            "text": {
+                "headline": "Patrick McKinney (Webmaster)",
+                "text": "<p>Patrick is a GIS Analyst for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He is active presenting at professional conferences.  Working with Harrisburg University, Patrick founded the annual GeoDev Summit, a one-day event geared toward GIS developers.</p><p>Prior to working with Cumberland County, Patrick was a Planner with Lancaster County.  He has also worked with Indiana County’s Planning and Parks & Trails offices.  He is also a skilled musician, with a focus on bass and guitar.  He blogs regularly with his wife at <a href='https://mckinneypartyof5.life/' rel='noopener' target=_blank'>https://mckinneypartyof5.life/</a>.  If you’re ever in downtown Carlisle over the lunch hour, you may find Patrick running around town.</p>"
+            },
+            "location": {
+                "lat": 40.201557,
+                "lon": -77.189026,
+                "zoom": 11
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/patrick-mckinney.jpg"
             }
         }]
     }
