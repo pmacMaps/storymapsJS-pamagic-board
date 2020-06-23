@@ -63,6 +63,19 @@
             }
         },{
             "text": {
+                "headline": "Erin Dudley (Board Member)",
+                "text": "<p>Erin Dudley is the GeoAnalytics/GIS Manager for E. Holdings, Inc. Erin has over 14 years of progressive experience in asset management, environmental and nuclear management, and disaster management. Erin is a leader and communicator adept at building rapport with diverse audiences and cultivating lasting partnerships with colleagues, clients, and community members. She has traveled all over the United States working for various governmental entities such as FEMA and the Marine Corps.</p><p>She has served on project teams for large scale planning efforts for FEMA, the Department of Defense, and state Departments of Transportation as well as smaller scale local projects for ALCOSAN, PWSA, and the Port Authority of Allegheny County.</p><p>With her expertise in GIS, Erin utilized ArcGIS and Network Analyst to prepare evacuation routes and implement disaster mitigation plans. Her additional tasks involved creating Standard Operating Procedures (SOPs) for Region III (MD, VA, PA, WVA, and DE), GIS cadre, implementing real-time weather analysis, and mapping capabilities for use prior to a disaster. She implemented real-time weather analysis and mapping capabilities to assist emergency managers in critical decision making ahead of disasters.</p><p>Erin has been an active PAMAGIC member since 2019 and is looking forward to lending her input and expertise on the PAMAGIC Organization and Board. Erin is also an active member & volunteer for GISCorps, and has provided mentorship to 22 junior staff, successfully placing them in permanent positions.</p><p>Erin obtained a B.S. in Information Assurance from the University of Maryland. She is certified in National Association of Sewer Service Companies (NASSCO).</p>"
+            },
+            "location": {
+                "lat": 40.4595464, 
+                "lon": -79.9263795, 
+                "zoom": 11                
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/erin_dudley.jpg"           
+            }
+        },{
+            "text": {
                 "headline": "Matt Mercurio (Board Member)",
                 "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
             },
