@@ -7,7 +7,7 @@ const storymap_data = './assets/data/pamagicBoard.json';
 const storymap_options = {
     "language": "en",
      "map_type": "osm:standard",
-    "calculate_zoom": false    
+    "calculate_zoom": false
 };
 
 // the story map object
@@ -27,8 +27,8 @@ function addAltTextToImage() {
     const slideImage = document.getElementsByClassName('vco-media-image')[currentSlide];
     // text content for current slide heading
     const headlineText = document.getElementsByClassName('vco-headline')[currentSlide].textContent;
-    // set alt text to headline text 
-    slideImage.alt = headlineText;      
+    // set alt text to headline text
+    slideImage.alt = headlineText;
 }
 
 // update display on resize of window
@@ -51,5 +51,5 @@ storymap.on("loaded", function() {
     // running this function within "loaded" event on mobile causes error and app not loading
     if (userDevice === 'Desktop') {
         addAltTextToImage();
-    }    
+    }
 });
