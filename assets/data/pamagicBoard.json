@@ -15,12 +15,12 @@
                 "text": "<p>Mark Bowen is currently the GIS & Cityworks Manager at Lehigh County Authority in Lower Macungie, PA. Mark graduated from West Chester University with a BA and MS in Geography with a concentration in geospatial technology. During his undergraduate career at West Chester, Mark interned with Cedarville Engineering Group, where he worked on building databases and asset management software.</p><p>Mark took an opportunity to join Lehigh County Authority in 2016 as a GIS Specialist. There he implemented multiple geospatial solutions to improve field operations and enhance business processes. In 2017 Mark assumed the role of GIS & Cityworks Manager, overseeing all asset management and GIS software development for the Authority. Mark current serves on the PA-AWWA IT Committee and leads the Lehigh Valley GIS Group. Mark actively attends and presents at local and national conferences, sharing strategies for GIS implementation in the water and wastewater industry. </p><p>Mark currently resides in the Philadelphia region with his wife and Jack Russell, Maui. Mark enjoys being active in organizations that focus on promoting and enhancing the GIS community. Mark enjoys travelling the world and immersing himself in other cultures.</p>"
             },
             "location": {
-                "lat": 40.258417, 
-                "lon": -75.634014, 
-                "zoom": 11                
+                "lat": 40.258417,
+                "lon": -75.634014,
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark-bowen.png"          
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark-bowen.png"
             }
         },{
             "text": {
@@ -30,23 +30,23 @@
             "location": {
                 "lat": 40.160,
                 "lon": -79.272,
-                "zoom": 11                
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/2017_Whitacre_James.png"         
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/2017_Whitacre_James.png"
             }
         },{
             "text": {
                 "headline": "Albert Sarvis (Treasurer)",
-                "text": "<p>Mr. Sarvis has been a long time resident of the Central Pennsylvania area and has 19 years of Geographic Information Systems (GIS) industry experience and more than 10 years as a GIS/IT project manager.  His educational background focused on Environmental studies, Geography/Geospatial Technology and Project Management.  Upon completion of his Master's degree in Geography Mr. Sarvis worked in the field of GIS data migration serving as a production manager in the Washington DC area.  After several years in DC he moved to Bloomington Indiana and worked as the Assistant GIS Coordinator for the City.  While in Indiana Mr. Sarvis was also an adjunct faculty member of Indiana University’s School of Public and Environmental Affairs (SPEA), teaching the Introduction and Applied GIS courses.  In the summer of 1999 Mr. Sarvis moved back to the Harrisburg area to work for a utility software development company.  In this job Mr. Sarvis began project management responsibilities, had an opportunity to work for 14 months at the company’s corporate headquarters in Great Britain, and became involved in managing the innovation and design process for new products.</p><p>Mr. Sarvis joined GeoDecisions, a division of Gannett Fleming Inc., in 2005 as a project manager and business analyst for government GIS/IT projects.  In the same year Mr. Sarvis began a corporate faculty position with Harrisburg University of Science and Technology teaching geospatial technology courses.  His GeoDecisions projects involved the design and development of a web based GIS applications, design of a new transportation data model and GIS system, a GIS Web Portal for the North Dakota Department of Transportation, and management of the development of the Pennsylvania Geospatial Data Sharing Standards (PGDSS) project to develop data sharing standards for framework GIS layers in the state of Pennsylvania.  Most recently Mr. Sarvis worked with the City of New York to develop environmental public health and vacant property redevelopment GIS web portals. Mr. Sarvis also served as a business analyst for GIS Strategic Planning and GIS for Government consulting projects.</p><p>In January of 2011 Mr. Sarvis joined Harrisburg University as a full time Assistant Professor of Geospatial Technology and IT Project Management.  He is responsible for coordinating, teaching and aligning corporate faculty members for both programs.  Mr. Sarvis brings a unique perspective to Harrisburg University that aligns well with the focus on experiential learning.  The industry contacts developed over Mr. Sarvis’s career provide an extensive network of professional project, internship and career opportunities for HU students.</p>"            
+                "text": "<p>Mr. Sarvis has been a long time resident of the Central Pennsylvania area and has 19 years of Geographic Information Systems (GIS) industry experience and more than 10 years as a GIS/IT project manager.  His educational background focused on Environmental studies, Geography/Geospatial Technology and Project Management.  Upon completion of his Master's degree in Geography Mr. Sarvis worked in the field of GIS data migration serving as a production manager in the Washington DC area.  After several years in DC he moved to Bloomington Indiana and worked as the Assistant GIS Coordinator for the City.  While in Indiana Mr. Sarvis was also an adjunct faculty member of Indiana University’s School of Public and Environmental Affairs (SPEA), teaching the Introduction and Applied GIS courses.  In the summer of 1999 Mr. Sarvis moved back to the Harrisburg area to work for a utility software development company.  In this job Mr. Sarvis began project management responsibilities, had an opportunity to work for 14 months at the company’s corporate headquarters in Great Britain, and became involved in managing the innovation and design process for new products.</p><p>Mr. Sarvis joined GeoDecisions, a division of Gannett Fleming Inc., in 2005 as a project manager and business analyst for government GIS/IT projects.  In the same year Mr. Sarvis began a corporate faculty position with Harrisburg University of Science and Technology teaching geospatial technology courses.  His GeoDecisions projects involved the design and development of a web based GIS applications, design of a new transportation data model and GIS system, a GIS Web Portal for the North Dakota Department of Transportation, and management of the development of the Pennsylvania Geospatial Data Sharing Standards (PGDSS) project to develop data sharing standards for framework GIS layers in the state of Pennsylvania.  Most recently Mr. Sarvis worked with the City of New York to develop environmental public health and vacant property redevelopment GIS web portals. Mr. Sarvis also served as a business analyst for GIS Strategic Planning and GIS for Government consulting projects.</p><p>In January of 2011 Mr. Sarvis joined Harrisburg University as a full time Assistant Professor of Geospatial Technology and IT Project Management.  He is responsible for coordinating, teaching and aligning corporate faculty members for both programs.  Mr. Sarvis brings a unique perspective to Harrisburg University that aligns well with the focus on experiential learning.  The industry contacts developed over Mr. Sarvis’s career provide an extensive network of professional project, internship and career opportunities for HU students.</p>"
             },
             "location": {
-                "lat": 40.262032, 
-                "lon": -76.880388, 
-                "zoom": 11                
+                "lat": 40.262032,
+                "lon": -76.880388,
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/albert-sarvis.jpg"          
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/albert-sarvis.jpg"
             }
         },{
             "text": {
@@ -54,12 +54,12 @@
                 "text": "<p>Steve recently retired from a career that spanned over 43 years and included positions in mapping and graphics, Geographic Information Systems (GIS), Enterprise Content Management (ECM) software and applications, project management, and college level teaching. He served as a Project Manager and Senior Consultant for Johnson, Mirmiran, and Thompson, Incorporated (JMT) on GIS and ECM implementation projects. Awards given to projects that he managed included a Regional Project Award by the Pennsylvania Consulting Engineering Council in 2002 and an Exemplary Government System Award by URISA in 2003. Prior to working for JMT, he worked for KCI Technologies in various capacities ranging from System Administrator to Senior GIS Analyst/Project Manager.</p><p>He graduated from Shippensburg University of Pennsylvania with a Bachelor of Arts degree in Urban Studies.  He earned a Master of Arts degree in Geography and Environmental Planning from Towson University. He has been teaching Introductory GIS courses at Shippensburg University as an adjunct instructor and will begin teaching at York College of PA this fall.  He serves on the Shippensburg University Department of Geography and Earth Science’s Advisory Council.</p><p>He resides with his wife Sally, in the Borough of New Freedom in southern York County, Pennsylvania. Their daughter Lauren lives with her husband Greg and grandsons Graydon and Fletcher in Williamsburg, Virginia.  Their son, Adam is an attorney in Washington, DC.</p>"
             },
             "location": {
-                "lat": 39.7379, 
-                "lon": -76.7014, 
-                "zoom": 11                
+                "lat": 39.7379,
+                "lon": -76.7014,
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/SBECK_PIC.JPG"           
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/SBECK_PIC.JPG"
             }
         },{
             "text": {
@@ -67,12 +67,12 @@
                 "text": "<p>Erin Dudley is the GeoAnalytics/GIS Manager for E. Holdings, Inc. Erin has over 14 years of progressive experience in asset management, environmental and nuclear management, and disaster management. Erin is a leader and communicator adept at building rapport with diverse audiences and cultivating lasting partnerships with colleagues, clients, and community members. She has traveled all over the United States working for various governmental entities such as FEMA and the Marine Corps.</p><p>She has served on project teams for large scale planning efforts for FEMA, the Department of Defense, and state Departments of Transportation as well as smaller scale local projects for ALCOSAN, PWSA, and the Port Authority of Allegheny County.</p><p>With her expertise in GIS, Erin utilized ArcGIS and Network Analyst to prepare evacuation routes and implement disaster mitigation plans. Her additional tasks involved creating Standard Operating Procedures (SOPs) for Region III (MD, VA, PA, WVA, and DE), GIS cadre, implementing real-time weather analysis, and mapping capabilities for use prior to a disaster. She implemented real-time weather analysis and mapping capabilities to assist emergency managers in critical decision making ahead of disasters.</p><p>Erin has been an active PAMAGIC member since 2019 and is looking forward to lending her input and expertise on the PAMAGIC Organization and Board. Erin is also an active member & volunteer for GISCorps, and has provided mentorship to 22 junior staff, successfully placing them in permanent positions.</p><p>Erin obtained a B.S. in Information Assurance from the University of Maryland. She is certified in National Association of Sewer Service Companies (NASSCO).</p>"
             },
             "location": {
-                "lat": 40.4595464, 
-                "lon": -79.9263795, 
-                "zoom": 11                
+                "lat": 40.4595464,
+                "lon": -79.9263795,
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/erin_dudley.jpg"           
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/erin_dudley.jpg"
             }
         },{
             "text": {
@@ -80,12 +80,12 @@
                 "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
             },
             "location": {
-                "lat": 40.4611167, 
-                "lon": -79.9255654, 
-                "zoom": 11                
+                "lat": 40.4611167,
+                "lon": -79.9255654,
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/matt-mercurio.png"          
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/matt-mercurio.png"
             }
         },{
             "text": {
@@ -95,10 +95,10 @@
             "location": {
                 "lat": 40.785028,
                 "lon": -77.821935,
-                "zoom": 11                
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/dave_gilbert.JPG"          
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/dave_gilbert.JPG"
             }
         },{
             "text": {
@@ -108,10 +108,10 @@
             "location": {
                 "lat": 39.981,
                 "lon": -75.309,
-                "zoom": 11                
+                "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_denton.jpg"            
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/tom_denton.jpg"
             }
         },{
             "text": {
