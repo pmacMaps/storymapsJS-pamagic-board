@@ -89,6 +89,19 @@
             }
         },{
             "text": {
+                "headline": "Catherine Tulley (Board Member)",
+                "text": "<p>Catherine is a transportation planning Data Analyst for the Southwestern Pennsylvania Commission, the Metropolitan Planning Organization for the 10 counties of southwestern Pennsylvania. She specializes in data wrangling and visualization for regional and transportation planning, working with a variety of demographic and economic datasets, travel time data, transportation 'Big Data' products such as StreetLight Insight, GIS data and more. Catherine started her career in the telecom industry and holds an A.S. in Network Administration (2005). She transitioned to GIS after graduating from Slippery Rock University of Pennsylvania in 2007 with a B.S. in Geography and a concentration in environmental studies.  She worked as a GIS Analyst in the civil engineering & environmental consulting field prior to her current role at SPC.</p><p>atherine has lived in Bellevue, a historic streetcar suburb of Pittsburgh, since 2011 and served on the borough’s multi-municipal joint planning commission from 2014-2017. She enjoys biking to work and living in a walkable, transit-connected community. Catherine is pleased to join the PAMAGIC Board and is looking forward to contributing further to the PA GIS community.</p>"
+            },
+            "location": {
+                "lat": 40.439509,
+                "lon": -79.991549,
+                "zoom": 11
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/catherine-tulley.jpg"
+            }
+        },{
+            "text": {
                 "headline": "Dave Gilbert (Geoboard Rep)",
                 "text": "<p>David Gilbert, GISP is a Senior Project Manager for GeoDecisions.  Dave is one of the original employees of GeoDecisions and has been with the company for 30 years serving as a consultant for local and state government, environmental and utility projects.   Dave has served as past President of PAMAGIC and Secretary as well as Secretary for the Pennsylvania Floodplain Managers and as a Steering Committee member on the Pennsylvania DEP Northcentral Citizens Round Table.</p><p>Dave currently serves as PAMAGIC's representative to the State GeoSpatial Coordinating Board. Dave lives with his wife and daughter in Centre County along with their Weimaraner, chickens and goldfish.</p>"
             },
