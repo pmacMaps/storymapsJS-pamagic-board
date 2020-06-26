@@ -3,7 +3,7 @@
             "type": "overview",
             "text": {
                 "headline": "Meet the PaMAGIC Leadership Team",
-                "text": "<p>The PaMAGIC Leadership Team is comprised of the nine-member Board of Directors, Pennsylvania Geoboard representative, Membership Chair, and Webmaster.</p><p>Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The terms overlap and three positions are elected each year. Elections are held each May.</p><p>Visit the <a href='https://pamagic.org/' target=_blank' rel='noopener'>PaMAGIC website</a> to learn more about our organization.</p>"
+                "text": "<p>The PaMAGIC Leadership Team is comprised of the nine-member Board of Directors, Pennsylvania Geoboard representative, Membership Chair, and Webmaster.</p><p>Each board member is elected for a three year term and is eligible to be elected to serve consecutive terms. The terms overlap and three positions are elected each year. Elections are held each May.</p><p>Visit the <a href='https://pamagic.org/' target='_blank' rel='noopener'>PaMAGIC website</a> to learn more about our organization.</p>"
             },
             "media": {
                     "url": "//maps.pamagic.org/meet-the-board/assets/images/pamagic-blue-whitespace.png",
@@ -11,20 +11,7 @@
             }
         },{
             "text": {
-                "headline": "Mark Bowen (President)",
-                "text": "<p>Mark Bowen is currently the GIS & Cityworks Manager at Lehigh County Authority in Lower Macungie, PA. Mark graduated from West Chester University with a BA and MS in Geography with a concentration in geospatial technology. During his undergraduate career at West Chester, Mark interned with Cedarville Engineering Group, where he worked on building databases and asset management software.</p><p>Mark took an opportunity to join Lehigh County Authority in 2016 as a GIS Specialist. There he implemented multiple geospatial solutions to improve field operations and enhance business processes. In 2017 Mark assumed the role of GIS & Cityworks Manager, overseeing all asset management and GIS software development for the Authority. Mark current serves on the PA-AWWA IT Committee and leads the Lehigh Valley GIS Group. Mark actively attends and presents at local and national conferences, sharing strategies for GIS implementation in the water and wastewater industry. </p><p>Mark currently resides in the Philadelphia region with his wife and Jack Russell, Maui. Mark enjoys being active in organizations that focus on promoting and enhancing the GIS community. Mark enjoys travelling the world and immersing himself in other cultures.</p>"
-            },
-            "location": {
-                "lat": 40.258417,
-                "lon": -75.634014,
-                "zoom": 11
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark-bowen.png"
-            }
-        },{
-            "text": {
-                "headline": "James Whitacre (Secretary)",
+                "headline": "James Whitacre (President)",
                 "text": "<p>James Whitacre is the GIS Research Scientist for Carnegie Museum of Natural History, where he primarily manages the GIS Lab at Powdermill Nature Reserve, the Museum’s environmental research center. For over a decade, the GIS Lab at Powdermill has produced numerous geospatial projects on the Nature Reserve and throughout the region in forest ecology, stream ecology, and avian research, among other topics. The GIS Lab also maintains numerous geospatial datasets that can be used for geospatial research and analysis. Additionally, Whitacre supports museum staff and affiliated researchers with geospatial technologies and needs.</p><p>This is Whitacre’s second appointment at the Museum as he was formerly the GIS Manager from 2011 to 2014. During that time, he was instrumental in developing the Pennsylvania Unconventional Natural Gas Wells dataset, which has been used in numerous research projects and publications. Whitacre’s professional interests include sUAS, photogrammetry, and Lidar applications for forest ecology; Python development and education in GIS; and the nexus of GIS and citizen science.</p><p>Before returning to the Museum in 2018, Whitacre was the GIS Specialist for the Main Library at the University of Illinois at Urbana-Champaign, where he provided GIS consultations for researchers and scholars, taught GIS workshops, managed the Library’s geospatial data, and served as a central resource for the University’s GIS community to promote the use of GIS in research. While in Illinois, Whitacre served as the Co-Chair of the University of Illinois GIS Day Planning Committee from 2014 to 2017. He was also an active member in the Illinois GIS Association (ILGISA) and served on the Education Committee in 2016. Whitacre holds a Bachelor of Arts in Zoology from Ohio Wesleyan University, and a Master of Science in Geography, concentrating on GIS and cartography, from Indiana University of Pennsylvania.</p>"
             },
             "location": {
@@ -34,6 +21,19 @@
             },
             "media": {
                 "url": "//maps.pamagic.org/meet-the-board/assets/images/2017_Whitacre_James.png"
+            }
+        },{
+            "text": {
+                "headline": "Matt Mercurio (Vice President)",
+                "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
+            },
+            "location": {
+                "lat": 40.4611167,
+                "lon": -79.9255654,
+                "zoom": 11
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/matt-mercurio.png"
             }
         },{
             "text": {
@@ -50,6 +50,19 @@
             }
         },{
             "text": {
+                "headline": "Catherine Tulley (Secretary)",
+                "text": "<p>Catherine is a transportation planning Data Analyst for the Southwestern Pennsylvania Commission, the Metropolitan Planning Organization for the 10 counties of southwestern Pennsylvania. She specializes in data wrangling and visualization for regional and transportation planning, working with a variety of demographic and economic datasets, travel time data, transportation 'Big Data' products such as StreetLight Insight, GIS data and more. Catherine started her career in the telecom industry and holds an A.S. in Network Administration (2005). She transitioned to GIS after graduating from Slippery Rock University of Pennsylvania in 2007 with a B.S. in Geography and a concentration in environmental studies.  She worked as a GIS Analyst in the civil engineering & environmental consulting field prior to her current role at SPC.</p><p>atherine has lived in Bellevue, a historic streetcar suburb of Pittsburgh, since 2011 and served on the borough’s multi-municipal joint planning commission from 2014-2017. She enjoys biking to work and living in a walkable, transit-connected community. Catherine is pleased to join the PAMAGIC Board and is looking forward to contributing further to the PA GIS community.</p>"
+            },
+            "location": {
+                "lat": 40.439509,
+                "lon": -79.991549,
+                "zoom": 11
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/catherine-tulley.jpg"
+            }
+        },{
+            "text": {
                 "headline": "Steve Beck (Board Member)",
                 "text": "<p>Steve recently retired from a career that spanned over 43 years and included positions in mapping and graphics, Geographic Information Systems (GIS), Enterprise Content Management (ECM) software and applications, project management, and college level teaching. He served as a Project Manager and Senior Consultant for Johnson, Mirmiran, and Thompson, Incorporated (JMT) on GIS and ECM implementation projects. Awards given to projects that he managed included a Regional Project Award by the Pennsylvania Consulting Engineering Council in 2002 and an Exemplary Government System Award by URISA in 2003. Prior to working for JMT, he worked for KCI Technologies in various capacities ranging from System Administrator to Senior GIS Analyst/Project Manager.</p><p>He graduated from Shippensburg University of Pennsylvania with a Bachelor of Arts degree in Urban Studies.  He earned a Master of Arts degree in Geography and Environmental Planning from Towson University. He has been teaching Introductory GIS courses at Shippensburg University as an adjunct instructor and will begin teaching at York College of PA this fall.  He serves on the Shippensburg University Department of Geography and Earth Science’s Advisory Council.</p><p>He resides with his wife Sally, in the Borough of New Freedom in southern York County, Pennsylvania. Their daughter Lauren lives with her husband Greg and grandsons Graydon and Fletcher in Williamsburg, Virginia.  Their son, Adam is an attorney in Washington, DC.</p>"
             },
@@ -60,6 +73,19 @@
             },
             "media": {
                 "url": "//maps.pamagic.org/meet-the-board/assets/images/SBECK_PIC.JPG"
+            }
+        },{
+            "text": {
+                "headline": "Mark Bowen (Board Member)",
+                "text": "<p>Mark Bowen is currently the GIS & Cityworks Manager at Lehigh County Authority in Lower Macungie, PA. Mark graduated from West Chester University with a BA and MS in Geography with a concentration in geospatial technology. During his undergraduate career at West Chester, Mark interned with Cedarville Engineering Group, where he worked on building databases and asset management software.</p><p>Mark took an opportunity to join Lehigh County Authority in 2016 as a GIS Specialist. There he implemented multiple geospatial solutions to improve field operations and enhance business processes. In 2017 Mark assumed the role of GIS & Cityworks Manager, overseeing all asset management and GIS software development for the Authority. Mark current serves on the PA-AWWA IT Committee and leads the Lehigh Valley GIS Group. Mark actively attends and presents at local and national conferences, sharing strategies for GIS implementation in the water and wastewater industry. </p><p>Mark currently resides in the Philadelphia region with his wife and Jack Russell, Maui. Mark enjoys being active in organizations that focus on promoting and enhancing the GIS community. Mark enjoys travelling the world and immersing himself in other cultures.</p>"
+            },
+            "location": {
+                "lat": 40.258417,
+                "lon": -75.634014,
+                "zoom": 11
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/mark-bowen.png"
             }
         },{
             "text": {
@@ -76,29 +102,16 @@
             }
         },{
             "text": {
-                "headline": "Matt Mercurio (Board Member)",
-                "text": "<p>Matt has been a practicing GIS professional at federal, state, local governments and non-profits over his 20 year career. He specializes in testing new ideas to carry out innovative approaches for solving tough problems in GIS and geospatial data management, and is now taking these innovative problem-solving ideas and skills into the business world.  Matt co-founded two geospatial technology companies in 2015 and serves as Geospatial Technology Officer (GTO) at both. He also provides professional services to several other companies and organizations that require assistance in the use of geospatially enabled tools and data to maximize business efficiency.</p><p>Matt has lived for the past 10 years with his wife Emily (PhD and PG) and two children, Alta (12) and Lorenzo (10) in Swissvale, PA.  Matt enjoys being active in organizations of all types and sizes and is currently a board member, coach and league commissioner for a local not for profit soccer club, Pittsburgh Dynamo, and he is active in the local GIS (co-founder of Maptime PGH) and open data communities.  Matt obtained a B.S. in Geoscience from Penn State and a Master’s degree in Geology from Ball State University.</p>"
+                "headline": "Nathan Piekielek (Board Member)",
+                "text": "<p>I am the Kalin Librarian for Technological Innovation, Geospatial Services Librarian and an Associate Professor of Geography at The Pennsylvania State University. I lead the library’s <a href='http://sites.psu.edu/mapsgislib/' target='_blank' rel='noopener'>Donald W. Hamer Center for Maps and Geospatial Information</a> where I promote and facilitate spatial literacy and the use of maps and geospatial information and technologies across the university. This includes the development of publicly accessible map and geospatial data collections and tools, one on one and small group research consultations, offering technical and non-technical trainings and workshops, and conducting primary research. My research interests and experiences are diverse and span the fields of geographic information science and remote sensing, historical cartography, landscape ecology and conservation, human geography and mapping, and academic librarianship. I also co-edit the <a href='https://www.tandfonline.com/toc/wmgl20/current' target='_blank' rel='noopener'>Journal of Map & Geography Libraries</a>.</p><p>Prior to my arrival at Penn State I was a Postdoctoral Research Associate at Montana State University where I was working with the U.S. Department of Interior’s North Central Climate Science Center on the ecological impacts of climate and land use change in the Northern Rocky Mountains. I have a long history of working for and with the U.S. Department of Interior National Park Service and continue to be interested in biodiversity conservation and natural resource management in the context of global change.</p><p>I and my family live in State College, PA and enjoy recreating outdoors. We have an eclectic and growing list of pets consistent with the interests of a 5 and 7 year old that keep life interesting.</p>"
             },
             "location": {
-                "lat": 40.4611167,
-                "lon": -79.9255654,
+                "lat": 40.797778,
+                "lon": -77.866056,
                 "zoom": 11
             },
             "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/matt-mercurio.png"
-            }
-        },{
-            "text": {
-                "headline": "Catherine Tulley (Board Member)",
-                "text": "<p>Catherine is a transportation planning Data Analyst for the Southwestern Pennsylvania Commission, the Metropolitan Planning Organization for the 10 counties of southwestern Pennsylvania. She specializes in data wrangling and visualization for regional and transportation planning, working with a variety of demographic and economic datasets, travel time data, transportation 'Big Data' products such as StreetLight Insight, GIS data and more. Catherine started her career in the telecom industry and holds an A.S. in Network Administration (2005). She transitioned to GIS after graduating from Slippery Rock University of Pennsylvania in 2007 with a B.S. in Geography and a concentration in environmental studies.  She worked as a GIS Analyst in the civil engineering & environmental consulting field prior to her current role at SPC.</p><p>atherine has lived in Bellevue, a historic streetcar suburb of Pittsburgh, since 2011 and served on the borough’s multi-municipal joint planning commission from 2014-2017. She enjoys biking to work and living in a walkable, transit-connected community. Catherine is pleased to join the PAMAGIC Board and is looking forward to contributing further to the PA GIS community.</p>"
-            },
-            "location": {
-                "lat": 40.439509,
-                "lon": -79.991549,
-                "zoom": 11
-            },
-            "media": {
-                "url": "//maps.pamagic.org/meet-the-board/assets/images/catherine-tulley.jpg"
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/nathan-piekielek.png"
             }
         },{
             "text": {
@@ -116,7 +129,7 @@
         },{
             "text": {
                 "headline": "Tom Denton (Member Chair)",
-                "text": "<p>Tom has been working with GIS since 1996. He started working with it in a survey class at Delaware Valley University. He then continued his GIS studies at West Chester University and used it in his doctoral thesis at Warren National University (now-defunct university). Tom has used GIS in various ways such as: for environmental /engineering industry, church non-profit data, and US Census demographics.</p><p>Tom has taught geography and environment classes as an adjunct professor at Pennsylvania State University, Delaware County Community College and is currently with Temple University.  He recently transitioned into the healthcare industry as a registered nurse. Tom continues to be the PAMAGIC membership chair. He am open to consulting or collaboration on projects or new ventures. Feel free to reach out for anything!  You can <a href='mailto:tdent465@gmail.com' target=_blank' rel='noopener'>e-mail</a> Tom.</p>"
+                "text": "<p>Tom has been working with GIS since 1996. He started working with it in a survey class at Delaware Valley University. He then continued his GIS studies at West Chester University and used it in his doctoral thesis at Warren National University (now-defunct university). Tom has used GIS in various ways such as: for environmental /engineering industry, church non-profit data, and US Census demographics.</p><p>Tom has taught geography and environment classes as an adjunct professor at Pennsylvania State University, Delaware County Community College and is currently with Temple University.  He recently transitioned into the healthcare industry as a registered nurse. Tom continues to be the PAMAGIC membership chair. He am open to consulting or collaboration on projects or new ventures. Feel free to reach out for anything!  You can <a href='mailto:tdent465@gmail.com' target='_blank' rel='noopener'>e-mail</a> Tom.</p>"
             },
             "location": {
                 "lat": 39.981,
@@ -129,7 +142,7 @@
         },{
             "text": {
                 "headline": "Patrick McKinney (Webmaster)",
-                "text": "<p>Patrick is a GIS Analyst for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He is active presenting at professional conferences.  Working with Harrisburg University, Patrick founded the annual GeoDev Summit, a one-day event geared toward GIS developers.</p><p>Prior to working with Cumberland County, Patrick was a Planner with Lancaster County.  He has also worked with Indiana County’s Planning and Parks & Trails offices.  He is also a skilled musician, with a focus on bass and guitar.  He blogs regularly with his wife at <a href='https://mckinneypartyof5.life/' rel='noopener' target=_blank'>https://mckinneypartyof5.life/</a>.  If you’re ever in downtown Carlisle over the lunch hour, you may find Patrick running around town.</p>"
+                "text": "<p>Patrick is a GIS Analyst for Cumberland County.  His responsibilities include maintaining enterprise datasets, providing technical assistance to county staff and municipal partners, and developing web and desktop mapping applications.  He is active presenting at professional conferences.  Working with Harrisburg University, Patrick founded the annual GeoDev Summit, a one-day event geared toward GIS developers.</p><p>Prior to working with Cumberland County, Patrick was a Planner with Lancaster County.  He has also worked with Indiana County’s Planning and Parks & Trails offices.  He is also a skilled musician, with a focus on bass and guitar.  He blogs regularly with his wife at <a href='https://mckinneypartyof5.life/' rel='noopener' target='_blank'>https://mckinneypartyof5.life/</a>.  If you’re ever in downtown Carlisle over the lunch hour, you may find Patrick running around town.</p>"
             },
             "location": {
                 "lat": 40.201557,
