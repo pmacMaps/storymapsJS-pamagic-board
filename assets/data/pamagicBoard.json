@@ -102,6 +102,19 @@
             }
         },{
             "text": {
+                "headline": "Daniel Jones (Board Member)",
+                "text": "<p>Daniel is currently a Geospatial Analyst with the State’s Wildlife Resources Agency, The Pennsylvania Game Commission. He graduated from Pellissippi State Technical College in Knoxville, Tennessee, with degrees in Geographical Information Systems Technology and Applied Science. During his time as a student in Tennessee, Daniel worked full-time in the flood compliance industry, where he analyzed and digitized FEMA’s flood insurance rate maps.</p><p>In 2011, Daniel had an opportunity to return to his home state of Pennsylvania in pursuit of a career that matched his passion for GIS with his love for the outdoors and wildlife conservation. Since that time, he has served several roles within the agency’s GIS department. In 2019, Daniel assumed the role of GIS Analyst within the agency. His primary duties include GIS system administration, project management, and geospatial application maintenance. Daniel is currently a member of the Central PA GIS Day Committee and is active in the state’s geospatial community, often attending and presenting at GIS conferences and other industry events.</p><p>Daniel lives in Dallas, Pennsylvania, with his wife and four children, and during his free time, his favorite activity is spending time with them. Daniel is pleased to me a member of the PAMAIC board and is excited to be able to contribute back to the geospatial industry.</p>"
+            },
+            "location": {
+                "lat": 41.336253,
+                "lon": -75.96346,
+                "zoom": 11
+            },
+            "media": {
+                "url": "//maps.pamagic.org/meet-the-board/assets/images/daniel-jones.jpg"
+            }
+        },{
+            "text": {
                 "headline": "Nathan Piekielek (Board Member)",
                 "text": "<p>I am the Kalin Librarian for Technological Innovation, Geospatial Services Librarian and an Associate Professor of Geography at The Pennsylvania State University. I lead the library’s <a href='http://sites.psu.edu/mapsgislib/' target='_blank' rel='noopener'>Donald W. Hamer Center for Maps and Geospatial Information</a> where I promote and facilitate spatial literacy and the use of maps and geospatial information and technologies across the university. This includes the development of publicly accessible map and geospatial data collections and tools, one on one and small group research consultations, offering technical and non-technical trainings and workshops, and conducting primary research. My research interests and experiences are diverse and span the fields of geographic information science and remote sensing, historical cartography, landscape ecology and conservation, human geography and mapping, and academic librarianship. I also co-edit the <a href='https://www.tandfonline.com/toc/wmgl20/current' target='_blank' rel='noopener'>Journal of Map & Geography Libraries</a>.</p><p>Prior to my arrival at Penn State I was a Postdoctoral Research Associate at Montana State University where I was working with the U.S. Department of Interior’s North Central Climate Science Center on the ecological impacts of climate and land use change in the Northern Rocky Mountains. I have a long history of working for and with the U.S. Department of Interior National Park Service and continue to be interested in biodiversity conservation and natural resource management in the context of global change.</p><p>I and my family live in State College, PA and enjoy recreating outdoors. We have an eclectic and growing list of pets consistent with the interests of a 5 and 7 year old that keep life interesting.</p>"
             },
